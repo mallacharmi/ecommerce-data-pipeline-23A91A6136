@@ -1,0 +1,18 @@
+{
+    "generated_at": "2025-12-21T07:52:49.489730",
+    "record_counts": {
+        "customers": 1000,
+        "products": 500,
+        "transactions": 10000,
+        "transaction_items": 29816
+    },
+    "transaction_date_range": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31"
+    },
+    "data_quality": {
+        "orphan_records": 0,
+        "constraint_violations": 0,
+        "data_quality_score": 100
+    }
+}
