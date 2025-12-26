@@ -1,6 +1,9 @@
+version: "3.9"
+
 services:
   postgres:
     image: postgres:14
+    container_name: ecommerce-postgres
     environment:
       POSTGRES_DB: ecommerce_db
       POSTGRES_USER: admin
@@ -11,7 +14,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
       - ./sql/ddl:/docker-entrypoint-initdb.d
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U admin"]
+      test: ["CMD-SHELL", "pg_isready -U admin -d ecommerce_db"]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -20,6 +23,7 @@ services:
     build:
       context: .
       dockerfile: docker/Dockerfile
+    container_name: ecommerce-pipeline
     depends_on:
       postgres:
         condition: service_healthy
@@ -32,7 +36,7 @@ services:
     volumes:
       - ./data:/app/data
       - ./logs:/app/logs
-    command: ["echo", "Pipeline container ready"]
+    command: ["python", "scripts/pipeline_orchestrator.py"]
 
 volumes:
   postgres_data:

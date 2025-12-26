@@ -17,14 +17,13 @@ with open("config/config.yaml", "r") as f:
 DATA_DIR = Path("data/raw")
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-
 # -----------------------------
 # Customers
 # -----------------------------
-def generate_customers(num_customers: int):
-    customers = []
+def generate_customers(num_customers: int) -> pd.DataFrame:
     age_groups = ["18-25", "26-35", "36-45", "46-60", "60+"]
 
+    customers = []
     for i in range(1, num_customers + 1):
         customers.append({
             "customer_id": f"CUST{i:04d}",
@@ -41,11 +40,10 @@ def generate_customers(num_customers: int):
 
     return pd.DataFrame(customers)
 
-
 # -----------------------------
 # Products
 # -----------------------------
-def generate_products(num_products: int):
+def generate_products(num_products: int) -> pd.DataFrame:
     categories = {
         "Electronics": ["Mobile", "Laptop", "Headphones"],
         "Clothing": ["Shirt", "Jeans", "Dress"],
@@ -56,7 +54,6 @@ def generate_products(num_products: int):
     }
 
     products = []
-
     for i in range(1, num_products + 1):
         category = random.choice(list(categories.keys()))
         sub_category = random.choice(categories[category])
@@ -78,18 +75,16 @@ def generate_products(num_products: int):
 
     return pd.DataFrame(products)
 
-
 # -----------------------------
 # Transactions
 # -----------------------------
-def generate_transactions(num_transactions: int, customers_df):
-    transactions = []
-    customer_ids = customers_df["customer_id"].tolist()
-
+def generate_transactions(num_transactions: int, customers_df: pd.DataFrame) -> pd.DataFrame:
     payment_methods = [
         "Credit Card", "Debit Card", "UPI",
         "Cash on Delivery", "Net Banking"
     ]
+
+    customer_ids = customers_df["customer_id"].tolist()
 
     start_date = datetime.strptime(
         config["data_generation"]["transaction_date_range"]["start_date"], "%Y-%m-%d"
@@ -98,6 +93,7 @@ def generate_transactions(num_transactions: int, customers_df):
         config["data_generation"]["transaction_date_range"]["end_date"], "%Y-%m-%d"
     )
 
+    transactions = []
     for i in range(1, num_transactions + 1):
         tx_time = fake.date_time_between(start_date=start_date, end_date=end_date)
 
@@ -113,20 +109,21 @@ def generate_transactions(num_transactions: int, customers_df):
 
     return pd.DataFrame(transactions)
 
-
 # -----------------------------
 # Transaction Items
 # -----------------------------
-def generate_transaction_items(transactions_df, products_df):
-    items = []
-    item_counter = 1
+def generate_transaction_items(
+    transactions_df: pd.DataFrame,
+    products_df: pd.DataFrame
+) -> pd.DataFrame:
 
+    items = []
     product_lookup = products_df.set_index("product_id").to_dict("index")
+    item_counter = 1
 
     for _, txn in transactions_df.iterrows():
         num_items = random.randint(1, 5)
         chosen_products = random.sample(list(product_lookup.keys()), num_items)
-
         txn_total = 0.0
 
         for pid in chosen_products:
@@ -134,10 +131,7 @@ def generate_transaction_items(transactions_df, products_df):
             unit_price = product_lookup[pid]["price"]
             discount = random.choice([0, 5, 10, 15])
 
-            line_total = round(
-                quantity * unit_price * (1 - discount / 100), 2
-            )
-
+            line_total = round(quantity * unit_price * (1 - discount / 100), 2)
             txn_total += line_total
 
             items.append({
@@ -159,32 +153,14 @@ def generate_transaction_items(transactions_df, products_df):
 
     return pd.DataFrame(items)
 
-
-# -----------------------------
-# Referential Integrity Validation
-# -----------------------------
-def validate_referential_integrity(customers, products, transactions, items):
-    orphan_customer_txn = ~transactions["customer_id"].isin(customers["customer_id"])
-    orphan_item_txn = ~items["transaction_id"].isin(transactions["transaction_id"])
-    orphan_item_product = ~items["product_id"].isin(products["product_id"])
-
-    total_orphans = (
-        orphan_customer_txn.sum()
-        + orphan_item_txn.sum()
-        + orphan_item_product.sum()
-    )
-
-    return {
-        "orphan_records": int(total_orphans),
-        "constraint_violations": 0,
-        "data_quality_score": 100 if total_orphans == 0 else max(0, 100 - total_orphans)
-    }
-
-
-# -----------------------------
-# MAIN EXECUTION
-# -----------------------------
-if __name__ == "__main__":
+# --------------------------------------------------
+# MASTER FUNCTION FOR PIPELINE ORCHESTRATOR (REQUIRED)
+# --------------------------------------------------
+def generate_all_data():
+    """
+    Called by pipeline_orchestrator.py
+    Generates ALL raw CSV files
+    """
     customers_df = generate_customers(config["data_generation"]["customers"])
     products_df = generate_products(config["data_generation"]["products"])
     transactions_df = generate_transactions(
@@ -197,23 +173,16 @@ if __name__ == "__main__":
     transactions_df.to_csv(DATA_DIR / "transactions.csv", index=False)
     items_df.to_csv(DATA_DIR / "transaction_items.csv", index=False)
 
-    integrity_report = validate_referential_integrity(
-        customers_df, products_df, transactions_df, items_df
-    )
-
-    metadata = {
-        "generated_at": datetime.utcnow().isoformat(),
-        "record_counts": {
-            "customers": len(customers_df),
-            "products": len(products_df),
-            "transactions": len(transactions_df),
-            "transaction_items": len(items_df)
-        },
-        "transaction_date_range": config["data_generation"]["transaction_date_range"],
-        "data_quality": integrity_report
+    return {
+        "customers": len(customers_df),
+        "products": len(products_df),
+        "transactions": len(transactions_df),
+        "transaction_items": len(items_df)
     }
 
-    with open(DATA_DIR / "generation_metadata.json", "w") as f:
-        json.dump(metadata, f, indent=4)
-
-    print("✅ Data generation completed successfully")
+# -----------------------------
+# Standalone Execution
+# -----------------------------
+if __name__ == "__main__":
+    stats = generate_all_data()
+    print("✅ Data generation completed:", stats)

@@ -2,11 +2,11 @@
 # Database Configuration
 # =========================
 database:
-  host: ${DB_HOST}
-  port: ${DB_PORT}
-  name: ${DB_NAME}
-  user: ${DB_USER}
-  password: ${DB_PASSWORD}
+  host: localhost
+  port: 5433
+  user: admin
+  password: password
+  dbname: ecommerce_db
 
 # =========================
 # Data Generation Settings
@@ -44,3 +44,7 @@ logging:
 bi_tool:
   tool: powerbi # options: powerbi | tableau
   output_dir: dashboards/
+scheduler:
+  run_time: "10:00" # daily run time (24-hr format)
+  timezone: "local" # local system time
+  retention_days: 7

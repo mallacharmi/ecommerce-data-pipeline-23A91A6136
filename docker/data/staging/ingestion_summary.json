@@ -1,0 +1,10 @@
+{
+    "ingestion_timestamp": "2025-12-26T16:34:42.364016",
+    "tables_loaded": {
+        "error": {
+            "status": "failed",
+            "error_message": "(psycopg2.errors.InvalidSchemaName) schema \"staging\" does not exist\n\n[SQL: TRUNCATE staging.customers]\n(Background on this error at: https://sqlalche.me/e/20/f405)"
+        }
+    },
+    "total_execution_time_seconds": 0.06
+}

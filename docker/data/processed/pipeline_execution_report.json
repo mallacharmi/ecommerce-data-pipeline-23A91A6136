@@ -1,0 +1,28 @@
+{
+    "pipeline_execution_id": "PIPE_20251226163415",
+    "start_time": "2025-12-26T16:34:15.434024+00:00",
+    "end_time": "2025-12-26T16:34:42.440034+00:00",
+    "total_duration_seconds": 27.01,
+    "status": "failed",
+    "steps_executed": {
+        "data_generation": {
+            "status": "success",
+            "duration_seconds": 23.7,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "data_ingestion": {
+            "status": "failed",
+            "duration_seconds": 3.3,
+            "records_processed": null,
+            "error_message": "(psycopg2.errors.InvalidSchemaName) schema \"staging\" does not exist\n\n[SQL: TRUNCATE staging.customers]\n(Background on this error at: https://sqlalche.me/e/20/f405)",
+            "retry_attempts": 3
+        }
+    },
+    "data_quality_summary": {},
+    "errors": [
+        "data_ingestion failed"
+    ],
+    "warnings": []
+}

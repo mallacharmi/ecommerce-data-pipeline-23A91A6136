@@ -1,0 +1,54 @@
+{
+    "pipeline_execution_id": "PIPE_20251226170058",
+    "start_time": "2025-12-26T17:00:58.977864+00:00",
+    "end_time": "2025-12-26T17:01:42.579843+00:00",
+    "total_duration_seconds": 43.6,
+    "status": "success",
+    "steps_executed": {
+        "data_generation": {
+            "status": "success",
+            "duration_seconds": 21.73,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "data_ingestion": {
+            "status": "success",
+            "duration_seconds": 13.89,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "data_quality_checks": {
+            "status": "success",
+            "duration_seconds": 0.05,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "staging_to_production": {
+            "status": "success",
+            "duration_seconds": 5.38,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "warehouse_load": {
+            "status": "success",
+            "duration_seconds": 2.5,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        },
+        "analytics_generation": {
+            "status": "success",
+            "duration_seconds": 0.05,
+            "records_processed": null,
+            "error_message": null,
+            "retry_attempts": 0
+        }
+    },
+    "data_quality_summary": {},
+    "errors": [],
+    "warnings": []
+}
