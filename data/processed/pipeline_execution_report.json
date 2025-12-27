@@ -1,48 +1,48 @@
 {
-    "pipeline_execution_id": "PIPE_20251226170058",
-    "start_time": "2025-12-26T17:00:58.977864+00:00",
-    "end_time": "2025-12-26T17:01:42.579843+00:00",
-    "total_duration_seconds": 43.6,
+    "pipeline_execution_id": "PIPE_20251227032009",
+    "start_time": "2025-12-27T03:20:09.717814+00:00",
+    "end_time": "2025-12-27T03:21:53.568211+00:00",
+    "total_duration_seconds": 103.85,
     "status": "success",
     "steps_executed": {
         "data_generation": {
             "status": "success",
-            "duration_seconds": 21.73,
+            "duration_seconds": 44.27,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0
         },
         "data_ingestion": {
             "status": "success",
-            "duration_seconds": 13.89,
+            "duration_seconds": 33.52,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0
         },
         "data_quality_checks": {
             "status": "success",
-            "duration_seconds": 0.05,
+            "duration_seconds": 0.02,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0
         },
         "staging_to_production": {
             "status": "success",
-            "duration_seconds": 5.38,
+            "duration_seconds": 21.76,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0
         },
         "warehouse_load": {
             "status": "success",
-            "duration_seconds": 2.5,
+            "duration_seconds": 4.21,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0
         },
         "analytics_generation": {
             "status": "success",
-            "duration_seconds": 0.05,
+            "duration_seconds": 0.07,
             "records_processed": null,
             "error_message": null,
             "retry_attempts": 0

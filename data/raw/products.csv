@@ -1,501 +1,501 @@
 product_id,product_name,category,sub_category,price,cost,brand,stock_quantity,supplier_id
-PROD0001,Everybody Skincare,Beauty,Skincare,4531.57,3093.28,"Russell, Jones and Mejia",54,SUP026
-PROD0002,Indeed Laptop,Electronics,Laptop,4908.83,3227.91,Mcmillan Inc,38,SUP046
-PROD0003,Exactly Mobile,Electronics,Mobile,3107.54,2223.98,Stanton-Perry,442,SUP031
-PROD0004,Can Furniture,Home & Kitchen,Furniture,1013.75,784.65,"Obrien, Howard and Schwartz",230,SUP002
-PROD0005,Pay Skincare,Beauty,Skincare,546.99,389.66,Wallace-Hansen,457,SUP030
-PROD0006,Sing Mobile,Electronics,Mobile,1089.97,728.32,Grimes Inc,249,SUP050
-PROD0007,Son Outdoor,Sports,Outdoor,4163.4,3069.42,Allison and Sons,283,SUP005
-PROD0008,Anything Fitness,Sports,Fitness,1422.21,1160.34,Jones LLC,39,SUP031
-PROD0009,Music Fiction,Books,Fiction,1822.43,1348.18,Gallegos-Collins,297,SUP030
-PROD0010,Want Makeup,Beauty,Makeup,622.79,506.34,"Blake, Harris and Williamson",82,SUP049
-PROD0011,System Education,Books,Education,882.35,612.52,Beard Group,489,SUP009
-PROD0012,Under Dress,Clothing,Dress,1649.83,1233.97,"Daniels, Rollins and Fuentes",297,SUP005
-PROD0013,Blue Outdoor,Sports,Outdoor,4650.4,3934.18,Lawson-Pacheco,20,SUP018
-PROD0014,Character Cookware,Home & Kitchen,Cookware,2790.4,2050.33,"Meyer, Jordan and Harris",247,SUP008
-PROD0015,Near Dress,Clothing,Dress,2579.16,2098.41,Abbott and Sons,268,SUP024
-PROD0016,Own Cookware,Home & Kitchen,Cookware,2518.04,2047.95,"White, Lee and Young",365,SUP014
-PROD0017,Way Skincare,Beauty,Skincare,3590.73,2221.73,Harrison Group,398,SUP012
-PROD0018,Charge Furniture,Home & Kitchen,Furniture,1828.36,1110.6,"Newman, Edwards and Wong",497,SUP036
-PROD0019,Without Fitness,Sports,Fitness,2976.54,2030.76,"Wood, Weaver and Aguilar",183,SUP039
-PROD0020,Candidate Laptop,Electronics,Laptop,2199.35,1479.87,Swanson Group,91,SUP010
-PROD0021,Fly Skincare,Beauty,Skincare,3566.64,2212.78,Roberts-Greene,420,SUP003
-PROD0022,Get Dress,Clothing,Dress,1813.49,1377.38,Fisher-Gillespie,56,SUP008
-PROD0023,But Outdoor,Sports,Outdoor,834.38,614.09,Hernandez Ltd,287,SUP042
-PROD0024,Black Shirt,Clothing,Shirt,881.44,594.86,Ortiz-Tucker,488,SUP021
-PROD0025,Provide Skincare,Beauty,Skincare,2021.08,1380.42,Cordova PLC,307,SUP025
-PROD0026,Tv Headphones,Electronics,Headphones,4775.77,3379.65,Fletcher Ltd,260,SUP043
-PROD0027,Apply Outdoor,Sports,Outdoor,2648.61,1963.79,Simmons Ltd,217,SUP014
-PROD0028,Return Makeup,Beauty,Makeup,4461.59,3529.81,Miles-Bailey,414,SUP040
-PROD0029,Good Jeans,Clothing,Jeans,4400.89,3006.03,Lopez Inc,271,SUP017
-PROD0030,Memory Headphones,Electronics,Headphones,4819.68,3369.06,Carrillo-Acosta,465,SUP017
-PROD0031,Authority Laptop,Electronics,Laptop,2175.57,1732.27,Holder Ltd,398,SUP006
-PROD0032,Avoid Fitness,Sports,Fitness,2586.18,1873.78,Kerr-Lopez,75,SUP014
-PROD0033,Back Shirt,Clothing,Shirt,3523.7,2564.56,Davis-Carrillo,367,SUP005
-PROD0034,Management Headphones,Electronics,Headphones,3295.9,2730.11,"Ferrell, Gibson and Ferguson",40,SUP003
-PROD0035,Me Dress,Clothing,Dress,3094.26,2166.59,"Monroe, Martin and Pruitt",408,SUP031
-PROD0036,Somebody Cookware,Home & Kitchen,Cookware,3827.98,2651.78,Bailey PLC,468,SUP029
-PROD0037,Establish Outdoor,Sports,Outdoor,256.94,162.34,Ruiz Ltd,318,SUP044
-PROD0038,Today Shirt,Clothing,Shirt,1412.81,1030.53,Hamilton-Martinez,292,SUP021
-PROD0039,Clearly Skincare,Beauty,Skincare,4823.18,3489.86,Mccormick-Johnson,302,SUP019
-PROD0040,Mind Fitness,Sports,Fitness,3452.95,2257.87,"Mcclure, Taylor and Hampton",386,SUP039
-PROD0041,Question Shirt,Clothing,Shirt,3032.98,2181.31,Dougherty-Myers,296,SUP047
-PROD0042,Particular Fitness,Sports,Fitness,2043.53,1364.13,Marshall LLC,90,SUP050
-PROD0043,Campaign Makeup,Beauty,Makeup,1123.22,684.3,Solis-Miller,377,SUP050
-PROD0044,Strategy Furniture,Home & Kitchen,Furniture,1865.15,1560.86,Wiggins LLC,183,SUP001
-PROD0045,Right Outdoor,Sports,Outdoor,3679.73,2743.38,Fleming Inc,356,SUP021
-PROD0046,Less Jeans,Clothing,Jeans,3280.83,2381.41,"Wilson, Christensen and Nash",407,SUP013
-PROD0047,Future Laptop,Electronics,Laptop,3082.19,2281.53,Robinson Group,219,SUP006
-PROD0048,Forward Education,Books,Education,2344.09,1910.21,"Davis, Mitchell and Stone",299,SUP010
-PROD0049,Skill Fiction,Books,Fiction,478.94,355.37,Martinez Group,134,SUP028
-PROD0050,There Skincare,Beauty,Skincare,972.57,653.39,Cross-Chavez,478,SUP034
-PROD0051,Public Headphones,Electronics,Headphones,313.43,240.73,"Nelson, Harrison and Atkins",263,SUP004
-PROD0052,Heart Shirt,Clothing,Shirt,1288.11,788.4,Ortiz-Cook,363,SUP011
-PROD0053,Time Skincare,Beauty,Skincare,3342.61,2729.11,Thompson-Branch,478,SUP042
-PROD0054,Bar Skincare,Beauty,Skincare,2918.84,2169.35,Luna LLC,99,SUP042
-PROD0055,Attack Fitness,Sports,Fitness,1663.58,1385.58,Perez Inc,308,SUP005
-PROD0056,Others Skincare,Beauty,Skincare,987.78,729.65,"Villarreal, White and Colon",487,SUP021
-PROD0057,Strategy Skincare,Beauty,Skincare,2219.53,1797.19,Mcbride Ltd,26,SUP032
-PROD0058,Visit Cookware,Home & Kitchen,Cookware,3750.33,2997.46,"Fisher, Moore and Estrada",36,SUP013
-PROD0059,Town Skincare,Beauty,Skincare,4507.38,3032.09,Simmons PLC,477,SUP015
-PROD0060,Century Outdoor,Sports,Outdoor,3440.96,2612.48,Maxwell-Wilson,320,SUP050
-PROD0061,Quite Outdoor,Sports,Outdoor,2900.99,2058.58,Calderon-Perez,120,SUP005
-PROD0062,North Skincare,Beauty,Skincare,4475.07,3332.28,"Guerrero, Schwartz and Ferguson",324,SUP027
-PROD0063,Million Makeup,Beauty,Makeup,1661.36,1139.5,"Good, Ryan and Graham",59,SUP028
-PROD0064,Himself Cookware,Home & Kitchen,Cookware,775.14,610.23,Watson and Sons,406,SUP039
-PROD0065,Prove Cookware,Home & Kitchen,Cookware,2623.7,1643.9,George LLC,196,SUP010
-PROD0066,Environmental Fiction,Books,Fiction,1136.38,810.51,Davis Group,99,SUP045
-PROD0067,Treat Furniture,Home & Kitchen,Furniture,1365.49,972.49,Duncan Inc,459,SUP040
-PROD0068,Girl Shirt,Clothing,Shirt,3829.64,2985.35,Graham-Moore,436,SUP032
-PROD0069,Authority Headphones,Electronics,Headphones,3646.19,2923.04,Sanchez-Acevedo,325,SUP020
-PROD0070,Soldier Fitness,Sports,Fitness,2981.77,1913.3,"Bradford, Lewis and Collins",219,SUP025
-PROD0071,Time Skincare,Beauty,Skincare,4394.92,3116.95,Holmes PLC,269,SUP023
-PROD0072,But Fiction,Books,Fiction,1168.34,725.05,Hoover and Sons,408,SUP027
-PROD0073,Relationship Fitness,Sports,Fitness,2276.92,1421.64,"Brown, Williams and Wilson",387,SUP021
-PROD0074,Beyond Makeup,Beauty,Makeup,1206.88,852.42,Butler LLC,43,SUP011
-PROD0075,Team Makeup,Beauty,Makeup,3926.19,2431.72,Sawyer LLC,311,SUP005
-PROD0076,Season Jeans,Clothing,Jeans,4200.97,3227.18,Lewis-Jenkins,89,SUP004
-PROD0077,Especially Education,Books,Education,3818.3,2875.12,"Schroeder, Hill and Thompson",294,SUP007
-PROD0078,Respond Shirt,Clothing,Shirt,2579.77,1768.52,Walter Group,412,SUP016
-PROD0079,Than Makeup,Beauty,Makeup,2225.79,1405.6,Mendoza Inc,217,SUP026
-PROD0080,Enough Cookware,Home & Kitchen,Cookware,274.33,209.52,"Stephens, Boyd and Haynes",300,SUP028
-PROD0081,Message Laptop,Electronics,Laptop,4077.22,3184.93,Peterson-Butler,240,SUP029
-PROD0082,Draw Furniture,Home & Kitchen,Furniture,2232.06,1466.53,Guzman LLC,261,SUP006
-PROD0083,Change Shirt,Clothing,Shirt,3329.19,2021.56,Butler-Russell,109,SUP046
-PROD0084,Remain Outdoor,Sports,Outdoor,4124.37,3497.72,"Torres, Smith and Oneill",89,SUP043
-PROD0085,Night Cookware,Home & Kitchen,Cookware,2535.3,2080.13,Taylor-Garza,440,SUP034
-PROD0086,Similar Cookware,Home & Kitchen,Cookware,4925.01,4087.55,"Johnson, Carlson and Jones",212,SUP023
-PROD0087,National Laptop,Electronics,Laptop,4192.03,2908.19,Williams PLC,352,SUP041
-PROD0088,A Cookware,Home & Kitchen,Cookware,1990.95,1318.35,Miranda Inc,138,SUP047
-PROD0089,Trial Education,Books,Education,829.84,653.77,Faulkner Group,367,SUP049
-PROD0090,Yourself Laptop,Electronics,Laptop,932.61,701.04,"Adams, Higgins and Dean",362,SUP048
-PROD0091,Head Fiction,Books,Fiction,275.45,165.86,Clark-Carter,414,SUP003
-PROD0092,Stop Jeans,Clothing,Jeans,1336.9,1092.69,Lee-Nguyen,129,SUP008
-PROD0093,Somebody Makeup,Beauty,Makeup,2230.18,1390.45,"Perez, Miles and Mendez",29,SUP007
-PROD0094,Measure Education,Books,Education,1431.81,1114.74,Maxwell-Rice,428,SUP022
-PROD0095,Professional Headphones,Electronics,Headphones,4702.0,2912.05,Parker-Rojas,12,SUP012
-PROD0096,Make Headphones,Electronics,Headphones,380.11,311.77,"Gilbert, Garner and Green",153,SUP016
-PROD0097,Occur Headphones,Electronics,Headphones,1254.06,899.77,"Brooks, Lewis and Kim",465,SUP017
-PROD0098,Wide Makeup,Beauty,Makeup,611.92,400.18,Taylor-Hansen,456,SUP016
-PROD0099,Stock Fiction,Books,Fiction,1711.75,1089.86,Butler-Little,347,SUP043
-PROD0100,Production Fiction,Books,Fiction,331.04,221.86,"King, Jimenez and Cochran",161,SUP007
-PROD0101,Thus Headphones,Electronics,Headphones,710.55,459.94,Montoya and Sons,444,SUP032
-PROD0102,Cell Mobile,Electronics,Mobile,1373.31,1087.85,"Marsh, Bauer and Marsh",405,SUP019
-PROD0103,Enjoy Shirt,Clothing,Shirt,3613.76,2620.29,Rodriguez Ltd,381,SUP013
-PROD0104,That Laptop,Electronics,Laptop,2334.89,1842.06,Gonzalez-Brown,28,SUP050
-PROD0105,Else Outdoor,Sports,Outdoor,3633.13,3082.19,Smith and Sons,162,SUP017
-PROD0106,Season Dress,Clothing,Dress,233.89,142.94,"Stewart, Perez and Mullins",268,SUP048
-PROD0107,After Makeup,Beauty,Makeup,2579.03,1879.88,Haney-Ochoa,291,SUP049
-PROD0108,Figure Furniture,Home & Kitchen,Furniture,2431.06,1534.69,Taylor-Morrow,44,SUP037
-PROD0109,Significant Fiction,Books,Fiction,1468.34,902.75,Banks LLC,381,SUP046
-PROD0110,Particular Cookware,Home & Kitchen,Cookware,4242.94,3476.99,"Benson, Hoffman and Steele",42,SUP017
-PROD0111,Worker Fitness,Sports,Fitness,3565.71,2895.51,Mckay-Hughes,41,SUP028
-PROD0112,Notice Fitness,Sports,Fitness,4097.72,3455.95,Preston Inc,190,SUP030
-PROD0113,President Education,Books,Education,1239.92,861.69,Glenn-Wilson,376,SUP039
-PROD0114,Firm Fiction,Books,Fiction,1502.9,1059.25,Kidd Group,172,SUP002
-PROD0115,Suddenly Jeans,Clothing,Jeans,3163.79,2414.15,Tapia PLC,369,SUP047
-PROD0116,Its Furniture,Home & Kitchen,Furniture,3930.28,3209.43,Baldwin and Sons,494,SUP050
-PROD0117,Daughter Skincare,Beauty,Skincare,4891.37,3707.08,Gamble-Reid,123,SUP041
-PROD0118,Reach Furniture,Home & Kitchen,Furniture,1645.85,995.28,Warner LLC,494,SUP015
-PROD0119,Movie Skincare,Beauty,Skincare,1262.86,791.63,Ramos-Freeman,500,SUP034
-PROD0120,Shake Headphones,Electronics,Headphones,2157.15,1822.56,"Garcia, Glenn and Martin",481,SUP006
-PROD0121,Difficult Dress,Clothing,Dress,2491.71,2061.61,"Gomez, Stanton and Brown",259,SUP003
-PROD0122,Service Laptop,Electronics,Laptop,1603.93,969.17,Allen Group,380,SUP046
-PROD0123,Officer Laptop,Electronics,Laptop,804.98,672.16,"Rogers, Werner and Mcgrath",475,SUP017
-PROD0124,Produce Makeup,Beauty,Makeup,1238.11,936.58,Rangel Group,69,SUP021
-PROD0125,Girl Education,Books,Education,4446.49,2789.2,Mason and Sons,474,SUP042
-PROD0126,Born Fitness,Sports,Fitness,881.25,596.15,Lewis PLC,277,SUP009
-PROD0127,How Jeans,Clothing,Jeans,1229.47,908.49,Ramirez-Sullivan,484,SUP033
-PROD0128,Imagine Outdoor,Sports,Outdoor,2356.03,1988.79,Ramirez-Olson,301,SUP045
-PROD0129,Skin Skincare,Beauty,Skincare,2671.11,2211.92,"Rodriguez, Reid and Padilla",191,SUP013
-PROD0130,Else Jeans,Clothing,Jeans,2178.3,1393.08,Thompson-Payne,138,SUP042
-PROD0131,Whatever Cookware,Home & Kitchen,Cookware,3191.79,2632.43,Johnson-Patrick,446,SUP038
-PROD0132,Yard Skincare,Beauty,Skincare,3740.3,3163.33,Grant-Lee,63,SUP039
-PROD0133,Including Furniture,Home & Kitchen,Furniture,2732.12,2189.41,Henson Group,252,SUP040
-PROD0134,Model Jeans,Clothing,Jeans,792.16,515.05,"Robles, Summers and Kennedy",57,SUP028
-PROD0135,Song Dress,Clothing,Dress,2077.13,1340.41,"Graham, Chavez and Villanueva",230,SUP036
-PROD0136,Ask Jeans,Clothing,Jeans,4442.9,3530.6,Martinez LLC,289,SUP030
-PROD0137,Strong Fitness,Sports,Fitness,3354.64,2790.37,Schultz-Rice,284,SUP034
-PROD0138,Establish Skincare,Beauty,Skincare,4454.73,3708.72,"Blake, Moore and Stewart",485,SUP020
-PROD0139,Go Makeup,Beauty,Makeup,2191.61,1601.98,Phillips-Wilson,344,SUP004
-PROD0140,Run Dress,Clothing,Dress,1580.69,1201.99,Paul Group,488,SUP048
-PROD0141,Deep Makeup,Beauty,Makeup,2872.82,1748.03,Larson-Gutierrez,247,SUP031
-PROD0142,Why Education,Books,Education,3439.96,2346.8,"Parker, Perez and Reyes",403,SUP018
-PROD0143,Bar Skincare,Beauty,Skincare,3302.79,2310.81,Murillo-Rubio,54,SUP013
-PROD0144,Mrs Cookware,Home & Kitchen,Cookware,3729.29,2897.42,"Walls, Robertson and Williams",199,SUP032
-PROD0145,Four Fitness,Sports,Fitness,3889.32,2884.75,"Blevins, Zimmerman and Hernandez",309,SUP011
-PROD0146,Foreign Skincare,Beauty,Skincare,2490.08,1541.4,Dawson-Hall,277,SUP007
-PROD0147,Century Fiction,Books,Fiction,4097.02,3070.53,"Chang, Soto and Shields",108,SUP047
-PROD0148,Require Jeans,Clothing,Jeans,4851.93,2915.65,Henderson PLC,113,SUP048
-PROD0149,Idea Outdoor,Sports,Outdoor,492.14,312.07,Cuevas Ltd,314,SUP001
-PROD0150,School Mobile,Electronics,Mobile,3836.62,3115.97,Morris-Bell,92,SUP021
-PROD0151,Actually Outdoor,Sports,Outdoor,4064.87,2772.02,Cain Inc,262,SUP050
-PROD0152,Member Shirt,Clothing,Shirt,2459.07,1713.84,"Adams, Doyle and Welch",41,SUP007
-PROD0153,Tough Cookware,Home & Kitchen,Cookware,2383.01,2023.32,"Moore, Raymond and Smith",475,SUP043
-PROD0154,Interesting Skincare,Beauty,Skincare,3313.71,2212.43,Dodson-Martinez,59,SUP015
-PROD0155,Brother Dress,Clothing,Dress,787.36,570.75,Howard-Newman,207,SUP029
-PROD0156,Back Skincare,Beauty,Skincare,4270.09,2778.01,"Armstrong, Mendez and Reyes",301,SUP006
-PROD0157,Wait Dress,Clothing,Dress,2256.78,1593.69,Anderson-Gill,354,SUP012
-PROD0158,Early Outdoor,Sports,Outdoor,4739.49,3802.22,"Blanchard, Fitzgerald and Ramsey",37,SUP007
-PROD0159,Speak Education,Books,Education,800.25,604.02,"Coleman, Clark and May",123,SUP017
-PROD0160,Eat Fitness,Sports,Fitness,4014.73,3392.66,Hess Ltd,466,SUP044
-PROD0161,Heavy Outdoor,Sports,Outdoor,4825.92,3069.16,"Sharp, Clarke and Jimenez",440,SUP016
-PROD0162,Finish Education,Books,Education,353.52,214.65,Wade-Walter,158,SUP044
-PROD0163,Condition Makeup,Beauty,Makeup,2072.37,1318.33,"Jackson, Bell and Myers",499,SUP043
-PROD0164,Forget Headphones,Electronics,Headphones,2225.29,1705.0,"Guzman, Sanchez and Mcpherson",271,SUP033
-PROD0165,Result Shirt,Clothing,Shirt,825.6,550.06,Morgan Inc,189,SUP049
-PROD0166,Tax Outdoor,Sports,Outdoor,4795.49,3200.16,"Yoder, Evans and Hayes",375,SUP039
-PROD0167,Decade Fiction,Books,Fiction,2740.78,2326.74,"Roberts, Cobb and Clark",334,SUP033
-PROD0168,Black Skincare,Beauty,Skincare,705.05,501.58,Powell-Alvarez,179,SUP006
-PROD0169,During Makeup,Beauty,Makeup,4888.17,3200.38,Cherry-Stewart,18,SUP040
-PROD0170,Third Furniture,Home & Kitchen,Furniture,2595.31,2154.0,Garcia Group,59,SUP047
-PROD0171,Direction Shirt,Clothing,Shirt,2549.78,2119.03,Smith LLC,121,SUP046
-PROD0172,Occur Laptop,Electronics,Laptop,4953.36,3678.54,"Deleon, Carr and White",292,SUP024
-PROD0173,Summer Mobile,Electronics,Mobile,1590.73,1300.11,"Valdez, Gaines and Thompson",341,SUP005
-PROD0174,Change Mobile,Electronics,Mobile,1028.34,843.55,"Hernandez, Richardson and Murray",129,SUP002
-PROD0175,Evidence Cookware,Home & Kitchen,Cookware,2165.05,1824.57,Blankenship LLC,488,SUP006
-PROD0176,Main Cookware,Home & Kitchen,Cookware,533.53,363.06,"Turner, Allen and Davis",389,SUP012
-PROD0177,Room Outdoor,Sports,Outdoor,3330.02,2445.92,Martin Group,345,SUP034
-PROD0178,Probably Headphones,Electronics,Headphones,393.94,278.81,"Carter, Hughes and Carlson",373,SUP029
-PROD0179,Short Outdoor,Sports,Outdoor,478.66,347.77,"Farley, Flores and Page",235,SUP029
-PROD0180,Trade Skincare,Beauty,Skincare,4907.19,3914.03,Adams-Curtis,277,SUP004
-PROD0181,Determine Dress,Clothing,Dress,4132.46,3400.4,Glover-Adams,14,SUP009
-PROD0182,Thus Education,Books,Education,1254.58,992.62,"Martin, Green and Johnson",499,SUP026
-PROD0183,Student Fiction,Books,Fiction,1907.24,1523.05,Smith and Sons,272,SUP046
-PROD0184,Choose Laptop,Electronics,Laptop,1765.22,1327.4,Espinoza Inc,281,SUP039
-PROD0185,Republican Skincare,Beauty,Skincare,2444.73,2005.35,Stanton Group,217,SUP022
-PROD0186,Upon Laptop,Electronics,Laptop,3786.66,3154.18,Wagner Group,194,SUP022
-PROD0187,Upon Education,Books,Education,4509.49,2932.22,"Williams, Griffin and Obrien",106,SUP050
-PROD0188,Their Makeup,Beauty,Makeup,1409.51,1077.37,Deleon-Mitchell,293,SUP047
-PROD0189,Political Makeup,Beauty,Makeup,4341.09,3643.27,Gilbert-Waller,215,SUP017
-PROD0190,Prove Education,Books,Education,696.51,512.37,"Cox, Bradshaw and Rojas",242,SUP041
-PROD0191,Than Cookware,Home & Kitchen,Cookware,2960.21,2458.79,"Valenzuela, Webb and Ross",347,SUP029
-PROD0192,Draw Fitness,Sports,Fitness,2903.1,1835.15,Jones LLC,424,SUP019
-PROD0193,White Jeans,Clothing,Jeans,4774.67,3993.33,Stevenson and Sons,291,SUP031
-PROD0194,Agency Furniture,Home & Kitchen,Furniture,329.18,217.88,Smith Group,438,SUP033
-PROD0195,Live Headphones,Electronics,Headphones,1813.03,1359.3,Tucker-Maxwell,309,SUP047
-PROD0196,Tree Laptop,Electronics,Laptop,581.26,403.8,Cuevas-Wood,500,SUP021
-PROD0197,Subject Education,Books,Education,1367.02,947.63,Fowler and Sons,237,SUP033
-PROD0198,Bag Mobile,Electronics,Mobile,2195.64,1579.2,Miller Ltd,435,SUP029
-PROD0199,Serious Furniture,Home & Kitchen,Furniture,3345.97,2453.87,Swanson and Sons,380,SUP017
-PROD0200,Already Jeans,Clothing,Jeans,4697.96,2854.16,Gonzalez Group,346,SUP008
-PROD0201,Production Makeup,Beauty,Makeup,3177.81,2017.87,Ramsey-Rogers,164,SUP020
-PROD0202,Respond Education,Books,Education,462.08,368.16,"Porter, Green and Charles",277,SUP010
-PROD0203,Send Outdoor,Sports,Outdoor,879.06,740.22,"Hall, Rodriguez and Jones",34,SUP037
-PROD0204,Serve Dress,Clothing,Dress,783.38,618.26,"Hernandez, Perez and Cox",22,SUP042
-PROD0205,Idea Headphones,Electronics,Headphones,1657.73,1321.4,Barton-Allen,457,SUP008
-PROD0206,Cost Laptop,Electronics,Laptop,875.32,545.61,Hunter PLC,175,SUP046
-PROD0207,Next Laptop,Electronics,Laptop,3886.23,2604.33,Pruitt LLC,112,SUP050
-PROD0208,Drug Outdoor,Sports,Outdoor,3680.78,2407.86,Gonzalez LLC,95,SUP036
-PROD0209,Money Dress,Clothing,Dress,467.11,385.49,Pearson LLC,132,SUP030
-PROD0210,Return Laptop,Electronics,Laptop,2107.85,1552.54,Martinez Ltd,334,SUP046
-PROD0211,These Cookware,Home & Kitchen,Cookware,2852.68,2391.48,"Brock, Moore and Perry",481,SUP048
-PROD0212,Image Jeans,Clothing,Jeans,4629.88,3191.11,Hayes PLC,444,SUP046
-PROD0213,This Skincare,Beauty,Skincare,4952.27,3362.34,"Williams, Wright and Ferguson",14,SUP048
-PROD0214,Impact Education,Books,Education,1656.11,1268.14,"Harvey, Santos and Peck",394,SUP050
-PROD0215,Prepare Fiction,Books,Fiction,2899.47,2399.53,Mccormick Ltd,337,SUP049
-PROD0216,Million Fitness,Sports,Fitness,2309.64,1900.33,"Henry, Jordan and Roberts",156,SUP009
-PROD0217,Budget Cookware,Home & Kitchen,Cookware,3005.84,1843.45,"Oconnor, Kent and Harding",80,SUP046
-PROD0218,Them Furniture,Home & Kitchen,Furniture,4391.46,2937.94,Adams Inc,31,SUP030
-PROD0219,Indeed Makeup,Beauty,Makeup,3965.27,2464.51,Davidson-Watson,21,SUP015
-PROD0220,Despite Makeup,Beauty,Makeup,4759.98,3386.81,"Mills, Welch and Johnson",210,SUP032
-PROD0221,Truth Furniture,Home & Kitchen,Furniture,4180.45,3035.32,"Kim, Haley and Smith",101,SUP035
-PROD0222,Course Skincare,Beauty,Skincare,3368.01,2402.3,Taylor Inc,211,SUP038
-PROD0223,Trouble Dress,Clothing,Dress,2833.37,1855.08,"Acevedo, Moore and Mitchell",193,SUP025
-PROD0224,Yourself Furniture,Home & Kitchen,Furniture,985.87,750.76,"Shaw, Griffin and Gutierrez",386,SUP024
-PROD0225,Present Dress,Clothing,Dress,1012.93,649.26,Dixon-Williams,11,SUP023
-PROD0226,Wind Dress,Clothing,Dress,1581.24,1120.44,Lopez-Duke,296,SUP020
-PROD0227,Community Makeup,Beauty,Makeup,3529.35,2644.19,Johnson LLC,371,SUP022
-PROD0228,Beat Furniture,Home & Kitchen,Furniture,1955.74,1499.93,"Howell, Richardson and Walker",81,SUP038
-PROD0229,Expert Headphones,Electronics,Headphones,4981.6,3983.65,Jones-Lucas,418,SUP042
-PROD0230,Alone Fiction,Books,Fiction,1744.08,1301.07,Anthony-Allen,428,SUP011
-PROD0231,Box Skincare,Beauty,Skincare,2706.78,1746.18,Dixon Inc,420,SUP024
-PROD0232,Ok Skincare,Beauty,Skincare,4600.26,3332.33,West and Sons,415,SUP036
-PROD0233,Big Furniture,Home & Kitchen,Furniture,4605.81,3379.28,Hall-Williams,78,SUP032
-PROD0234,Three Cookware,Home & Kitchen,Cookware,2471.33,1689.04,Odonnell LLC,169,SUP002
-PROD0235,Friend Headphones,Electronics,Headphones,4674.52,3171.24,Sullivan Ltd,233,SUP013
-PROD0236,Politics Shirt,Clothing,Shirt,3259.7,2707.93,Rodriguez-Edwards,205,SUP037
-PROD0237,These Cookware,Home & Kitchen,Cookware,3358.82,2757.9,Gilmore LLC,336,SUP039
-PROD0238,Method Furniture,Home & Kitchen,Furniture,1352.03,872.14,Patterson LLC,57,SUP042
-PROD0239,Tv Cookware,Home & Kitchen,Cookware,3040.18,2474.47,"Campbell, Flynn and Stephens",479,SUP005
-PROD0240,Pass Shirt,Clothing,Shirt,3376.8,2686.72,Duran-Odom,468,SUP013
-PROD0241,Until Headphones,Electronics,Headphones,774.86,608.96,"Cain, Williams and Johnson",174,SUP004
-PROD0242,Age Makeup,Beauty,Makeup,1199.6,755.32,Salazar LLC,340,SUP024
-PROD0243,Take Headphones,Electronics,Headphones,2103.73,1673.42,Gregory Inc,320,SUP038
-PROD0244,Forward Education,Books,Education,1444.03,1097.75,Hughes-Romero,39,SUP007
-PROD0245,Improve Furniture,Home & Kitchen,Furniture,2008.5,1349.29,"Brooks, Walker and Morales",386,SUP023
-PROD0246,Agency Dress,Clothing,Dress,2527.91,1888.56,Ashley Ltd,371,SUP021
-PROD0247,Evening Fiction,Books,Fiction,3952.69,3327.08,Barry-Lambert,481,SUP028
-PROD0248,Wonder Furniture,Home & Kitchen,Furniture,4100.95,3086.34,"Rodriguez, Horton and Carlson",109,SUP007
-PROD0249,Word Jeans,Clothing,Jeans,3690.15,2501.31,"Martin, Shaffer and Clay",38,SUP016
-PROD0250,Cold Skincare,Beauty,Skincare,1257.43,975.26,Myers-Tanner,393,SUP019
-PROD0251,Respond Fiction,Books,Fiction,579.56,445.93,Lopez Group,71,SUP008
-PROD0252,Short Education,Books,Education,1046.34,746.39,Hunt Ltd,106,SUP006
-PROD0253,Only Furniture,Home & Kitchen,Furniture,4645.05,3489.14,Johnson-Dalton,95,SUP006
-PROD0254,Fear Makeup,Beauty,Makeup,1653.53,1374.41,"Jackson, Paul and Johnson",183,SUP013
-PROD0255,Strategy Fiction,Books,Fiction,460.86,326.29,Acosta-Smith,342,SUP006
-PROD0256,Or Makeup,Beauty,Makeup,256.75,185.37,Sellers-Adams,425,SUP007
-PROD0257,Deal Makeup,Beauty,Makeup,1456.29,1184.92,Clayton Ltd,171,SUP002
-PROD0258,Wide Headphones,Electronics,Headphones,4517.51,3741.51,"Robinson, Torres and Greer",295,SUP029
-PROD0259,Reduce Jeans,Clothing,Jeans,3203.66,2711.95,"Pearson, Campbell and Sanders",452,SUP014
-PROD0260,Sound Fiction,Books,Fiction,646.21,519.25,"Davis, Smith and Morris",232,SUP006
-PROD0261,Girl Jeans,Clothing,Jeans,1017.81,689.24,"Calhoun, Bryant and Lang",244,SUP015
-PROD0262,Add Headphones,Electronics,Headphones,1339.09,1008.1,Herrera-Santana,83,SUP018
-PROD0263,Than Makeup,Beauty,Makeup,456.85,318.09,"Adams, Lowe and Cooper",239,SUP010
-PROD0264,Down Headphones,Electronics,Headphones,2710.1,2300.36,Olsen-Kirby,436,SUP010
-PROD0265,Fund Education,Books,Education,3131.96,2178.59,Greene-Rivera,43,SUP038
-PROD0266,Enough Dress,Clothing,Dress,3791.48,3170.85,Ochoa-Santos,467,SUP019
-PROD0267,Benefit Makeup,Beauty,Makeup,1924.94,1592.24,"Walton, Martin and Mcgrath",238,SUP012
-PROD0268,Mrs Cookware,Home & Kitchen,Cookware,4636.54,3610.36,Pratt LLC,234,SUP031
-PROD0269,Building Cookware,Home & Kitchen,Cookware,1565.25,1187.01,Henderson-Baker,386,SUP001
-PROD0270,Others Fiction,Books,Fiction,1526.67,1168.86,"Morris, Whitney and Hall",79,SUP006
-PROD0271,Play Jeans,Clothing,Jeans,1795.97,1312.0,Ruiz Ltd,114,SUP034
-PROD0272,Book Outdoor,Sports,Outdoor,933.25,791.34,"Johnson, Hicks and Freeman",476,SUP002
-PROD0273,Second Shirt,Clothing,Shirt,882.89,630.11,"Daugherty, Torres and Gonzalez",303,SUP009
-PROD0274,Citizen Jeans,Clothing,Jeans,3795.22,2986.71,Carney-Middleton,101,SUP019
-PROD0275,Low Fitness,Sports,Fitness,3505.08,2678.92,"Sanchez, Mendez and Brown",362,SUP046
-PROD0276,Sort Fitness,Sports,Fitness,644.25,491.66,Medina and Sons,219,SUP015
-PROD0277,Draw Fitness,Sports,Fitness,3069.43,2376.29,York and Sons,460,SUP004
-PROD0278,Message Headphones,Electronics,Headphones,4541.13,3292.09,Hopkins-Moreno,223,SUP017
-PROD0279,Possible Makeup,Beauty,Makeup,3746.37,2699.52,"Hernandez, Maldonado and Lopez",395,SUP016
-PROD0280,Check Jeans,Clothing,Jeans,1088.33,840.85,Henderson-Flores,59,SUP007
-PROD0281,Senior Fitness,Sports,Fitness,1069.73,717.43,Douglas Ltd,92,SUP015
-PROD0282,Rich Education,Books,Education,2277.57,1725.57,Smith and Sons,458,SUP036
-PROD0283,Grow Education,Books,Education,4048.34,3328.38,"Ruiz, Walker and Peterson",474,SUP050
-PROD0284,Machine Makeup,Beauty,Makeup,2650.15,1775.47,Green-Cochran,393,SUP034
-PROD0285,Story Headphones,Electronics,Headphones,1546.38,1239.47,"Lane, Diaz and Wise",368,SUP019
-PROD0286,Piece Headphones,Electronics,Headphones,3683.73,2926.08,"Phelps, Gonzales and Perez",452,SUP024
-PROD0287,Reduce Education,Books,Education,3237.38,2455.02,Walters LLC,164,SUP028
-PROD0288,Sea Shirt,Clothing,Shirt,3338.25,2522.96,Miller LLC,146,SUP032
-PROD0289,Leg Cookware,Home & Kitchen,Cookware,4600.23,3639.52,"Robertson, Murphy and Mclaughlin",471,SUP043
-PROD0290,Present Furniture,Home & Kitchen,Furniture,1921.06,1205.51,"Peters, Harris and Wagner",121,SUP005
-PROD0291,Gas Cookware,Home & Kitchen,Cookware,4432.66,3244.29,Park-Collins,35,SUP007
-PROD0292,War Fiction,Books,Fiction,4113.85,2785.62,Duran PLC,177,SUP013
-PROD0293,Real Outdoor,Sports,Outdoor,283.26,230.62,Maxwell and Sons,324,SUP048
-PROD0294,However Jeans,Clothing,Jeans,3814.03,2712.89,Rice PLC,446,SUP049
-PROD0295,To Fiction,Books,Fiction,1290.34,791.2,Pennington PLC,97,SUP008
-PROD0296,Attorney Fiction,Books,Fiction,3056.73,2230.15,"Duke, Webb and Espinoza",441,SUP002
-PROD0297,Just Education,Books,Education,3282.11,2137.7,"Martinez, Sanchez and Walker",282,SUP043
-PROD0298,Owner Makeup,Beauty,Makeup,2870.03,1906.8,"Diaz, Chavez and Reynolds",405,SUP039
-PROD0299,Capital Jeans,Clothing,Jeans,1572.19,990.18,Livingston PLC,410,SUP012
-PROD0300,Base Cookware,Home & Kitchen,Cookware,1777.08,1448.04,Martin Ltd,367,SUP026
-PROD0301,Create Furniture,Home & Kitchen,Furniture,3856.33,2636.7,Wright Inc,194,SUP017
-PROD0302,Site Shirt,Clothing,Shirt,4668.95,3883.88,Daniels-Reyes,125,SUP042
-PROD0303,Very Education,Books,Education,331.54,259.73,Thompson Inc,149,SUP013
-PROD0304,Year Dress,Clothing,Dress,3670.95,2751.92,"Coleman, Beard and Clark",171,SUP013
-PROD0305,Note Fiction,Books,Fiction,3516.46,2682.42,West PLC,328,SUP012
-PROD0306,Join Outdoor,Sports,Outdoor,4820.22,3645.9,Jackson LLC,436,SUP012
-PROD0307,They Outdoor,Sports,Outdoor,339.23,215.93,"Strickland, Rodriguez and Brooks",329,SUP038
-PROD0308,A Makeup,Beauty,Makeup,2928.67,2207.28,"Walker, Little and Hester",178,SUP017
-PROD0309,Middle Mobile,Electronics,Mobile,4147.71,2513.52,Coleman-Ray,356,SUP015
-PROD0310,Rest Makeup,Beauty,Makeup,535.84,364.55,Savage-Watson,123,SUP041
-PROD0311,Arm Furniture,Home & Kitchen,Furniture,4633.44,3299.8,Madden-Lee,74,SUP018
-PROD0312,Country Dress,Clothing,Dress,2341.42,1863.5,Roberson Ltd,432,SUP050
-PROD0313,Of Mobile,Electronics,Mobile,4669.08,3162.23,Downs-Maynard,270,SUP034
-PROD0314,Goal Dress,Clothing,Dress,4652.2,2856.41,"Mccormick, Mcmahon and Lopez",205,SUP013
-PROD0315,Least Education,Books,Education,407.7,299.13,"Anderson, Bell and Spencer",290,SUP040
-PROD0316,Price Fiction,Books,Fiction,1120.17,884.95,"Brown, Cooley and Alexander",74,SUP043
-PROD0317,Usually Mobile,Electronics,Mobile,997.87,833.39,Stephens PLC,100,SUP022
-PROD0318,Yes Fitness,Sports,Fitness,571.82,363.17,Miller-Nunez,37,SUP044
-PROD0319,Dinner Education,Books,Education,4244.04,2687.72,Fuller-Weaver,98,SUP022
-PROD0320,Theory Fitness,Sports,Fitness,4493.69,3015.3,Walker and Sons,254,SUP040
-PROD0321,Employee Laptop,Electronics,Laptop,3481.35,2107.6,Garcia and Sons,108,SUP025
-PROD0322,Start Fitness,Sports,Fitness,2870.38,2180.55,"Parker, Cox and Poole",414,SUP035
-PROD0323,Its Laptop,Electronics,Laptop,4342.18,3540.59,Adams Group,344,SUP029
-PROD0324,Better Outdoor,Sports,Outdoor,1458.13,1167.36,Gray Inc,466,SUP034
-PROD0325,Learn Fiction,Books,Fiction,2196.7,1790.79,Rivera Inc,420,SUP017
-PROD0326,Image Skincare,Beauty,Skincare,4763.07,3886.4,"Williams, Fisher and Harrison",222,SUP026
-PROD0327,Hospital Education,Books,Education,2505.88,1807.38,Newman-Carter,189,SUP018
-PROD0328,Former Dress,Clothing,Dress,2916.51,2088.8,Watkins Group,247,SUP012
-PROD0329,Clearly Jeans,Clothing,Jeans,1636.02,1010.84,"Richardson, Coffey and Foster",54,SUP010
-PROD0330,Easy Makeup,Beauty,Makeup,207.19,147.03,Cervantes and Sons,298,SUP026
-PROD0331,Pull Makeup,Beauty,Makeup,4413.29,3241.12,Sanchez-Lee,166,SUP050
-PROD0332,Baby Laptop,Electronics,Laptop,3094.72,2126.32,Young-Simpson,14,SUP011
-PROD0333,Throw Fiction,Books,Fiction,4391.6,2890.78,"Daniels, Thomas and Adkins",258,SUP040
-PROD0334,Well Jeans,Clothing,Jeans,1720.26,1284.48,"Patterson, Stewart and Evans",77,SUP035
-PROD0335,Situation Cookware,Home & Kitchen,Cookware,1331.31,1116.98,"Wise, Davis and Henson",495,SUP033
-PROD0336,Finally Fiction,Books,Fiction,3171.6,2638.05,Underwood Group,96,SUP033
-PROD0337,Third Furniture,Home & Kitchen,Furniture,1407.77,882.33,Gutierrez-Reynolds,203,SUP012
-PROD0338,Write Fitness,Sports,Fitness,406.38,257.37,Mills-Mendoza,198,SUP032
-PROD0339,Under Education,Books,Education,4030.34,3285.33,Rose-Anderson,330,SUP035
-PROD0340,Technology Dress,Clothing,Dress,2826.85,2001.84,Scott LLC,127,SUP041
-PROD0341,You Cookware,Home & Kitchen,Cookware,1719.96,1187.86,Ballard and Sons,83,SUP017
-PROD0342,Stage Dress,Clothing,Dress,3524.59,2666.77,Sanchez-Ingram,100,SUP033
-PROD0343,Brother Jeans,Clothing,Jeans,421.89,350.79,Dougherty Group,30,SUP045
-PROD0344,Control Education,Books,Education,1609.63,1110.17,Cochran-Matthews,166,SUP023
-PROD0345,Could Outdoor,Sports,Outdoor,4452.0,3783.45,"Clark, Kim and Hernandez",470,SUP031
-PROD0346,Issue Fiction,Books,Fiction,3152.7,2206.28,Aguilar LLC,147,SUP011
-PROD0347,To Dress,Clothing,Dress,3848.11,3093.69,"Smith, Brown and Cooper",274,SUP005
-PROD0348,Picture Fitness,Sports,Fitness,1942.35,1422.56,Flores Inc,289,SUP040
-PROD0349,Series Headphones,Electronics,Headphones,4487.75,3078.44,Caldwell-Hoover,242,SUP021
-PROD0350,Could Outdoor,Sports,Outdoor,391.45,253.38,Andrews-Jones,394,SUP009
-PROD0351,Air Headphones,Electronics,Headphones,991.33,651.16,Montes PLC,184,SUP007
-PROD0352,Evening Skincare,Beauty,Skincare,4562.35,3302.95,Hall-Jordan,323,SUP011
-PROD0353,Rate Laptop,Electronics,Laptop,4172.6,2616.45,Burke-Rogers,391,SUP042
-PROD0354,Reach Skincare,Beauty,Skincare,4584.44,3505.67,Ruiz-Burns,299,SUP015
-PROD0355,Great Skincare,Beauty,Skincare,2722.9,2214.81,Mitchell-Solis,99,SUP003
-PROD0356,Behavior Education,Books,Education,1682.27,1041.49,Lee Inc,95,SUP012
-PROD0357,Soldier Fitness,Sports,Fitness,2406.82,1582.93,Taylor-Rose,222,SUP026
-PROD0358,Picture Furniture,Home & Kitchen,Furniture,602.48,475.93,Clark-Yang,180,SUP050
-PROD0359,Arm Skincare,Beauty,Skincare,3410.79,2294.22,Davis-Adkins,459,SUP027
-PROD0360,Under Makeup,Beauty,Makeup,1137.33,712.55,"Vasquez, Perez and Anderson",108,SUP034
-PROD0361,Garden Fiction,Books,Fiction,453.51,335.93,Mccullough-Johnson,38,SUP049
-PROD0362,Message Jeans,Clothing,Jeans,3924.85,3117.69,Johnson-Alvarado,90,SUP006
-PROD0363,Form Education,Books,Education,435.93,296.4,"Moon, Moran and Hayes",205,SUP029
-PROD0364,West Skincare,Beauty,Skincare,2769.38,2022.28,Lee Ltd,328,SUP036
-PROD0365,Fear Fiction,Books,Fiction,2988.42,1875.94,Jordan-Elliott,304,SUP005
-PROD0366,Live Skincare,Beauty,Skincare,1026.95,734.08,Melton Ltd,163,SUP020
-PROD0367,Month Education,Books,Education,4482.82,3736.48,"Gonzalez, Baldwin and Brown",36,SUP016
-PROD0368,Describe Cookware,Home & Kitchen,Cookware,389.18,233.65,"Copeland, Stevenson and Ray",462,SUP001
-PROD0369,House Education,Books,Education,1281.43,924.3,Brown-Chambers,298,SUP011
-PROD0370,Because Makeup,Beauty,Makeup,3382.4,2205.29,Davidson-Jenkins,274,SUP013
-PROD0371,Gas Outdoor,Sports,Outdoor,3437.39,2455.4,Burns LLC,499,SUP005
-PROD0372,Event Headphones,Electronics,Headphones,4031.95,2445.56,Cole-Brown,55,SUP023
-PROD0373,Author Furniture,Home & Kitchen,Furniture,1843.39,1405.26,Gutierrez-Harvey,167,SUP029
-PROD0374,Appear Furniture,Home & Kitchen,Furniture,4839.98,3382.04,"Cooper, Rasmussen and Miller",122,SUP016
-PROD0375,Would Outdoor,Sports,Outdoor,915.33,663.29,"Bailey, Scott and Norris",498,SUP049
-PROD0376,Various Fiction,Books,Fiction,4275.01,3167.85,Jones-Hart,380,SUP003
-PROD0377,Range Fiction,Books,Fiction,1256.82,1009.41,French Ltd,73,SUP003
-PROD0378,Value Jeans,Clothing,Jeans,3239.37,1986.09,Delgado Ltd,206,SUP026
-PROD0379,Around Shirt,Clothing,Shirt,4743.63,3940.48,Decker and Sons,439,SUP042
-PROD0380,Across Skincare,Beauty,Skincare,4543.05,3268.64,Potts-Williams,339,SUP015
-PROD0381,Way Fiction,Books,Fiction,4387.93,2994.37,Mcguire-Gray,103,SUP023
-PROD0382,Imagine Shirt,Clothing,Shirt,2633.51,1654.44,Robbins LLC,320,SUP033
-PROD0383,Probably Laptop,Electronics,Laptop,4195.22,3108.61,Bridges-Vaughan,171,SUP045
-PROD0384,Them Headphones,Electronics,Headphones,3864.5,2388.33,Mclaughlin Group,157,SUP018
-PROD0385,The Fitness,Sports,Fitness,4143.83,3008.63,Ray and Sons,147,SUP038
-PROD0386,Analysis Education,Books,Education,2183.91,1436.5,Tyler-Baker,190,SUP034
-PROD0387,Past Education,Books,Education,3117.62,2572.97,"Macias, Richards and Williams",457,SUP006
-PROD0388,Himself Furniture,Home & Kitchen,Furniture,4289.89,3341.94,Walker-Stevens,108,SUP036
-PROD0389,Including Laptop,Electronics,Laptop,2587.43,2133.71,Espinoza-Navarro,26,SUP046
-PROD0390,Drive Makeup,Beauty,Makeup,1264.14,993.31,"Ross, Le and Pennington",59,SUP019
-PROD0391,Experience Fitness,Sports,Fitness,4983.9,3743.69,"French, Snyder and Johnson",47,SUP006
-PROD0392,Beautiful Skincare,Beauty,Skincare,2367.2,1488.89,"Williams, Wiley and Bishop",175,SUP034
-PROD0393,Because Fiction,Books,Fiction,4215.59,3405.83,"Perez, Chandler and Sims",228,SUP036
-PROD0394,End Laptop,Electronics,Laptop,4496.0,2838.66,"Patterson, King and Nelson",245,SUP003
-PROD0395,Decision Cookware,Home & Kitchen,Cookware,1421.95,1176.56,Villanueva Ltd,421,SUP045
-PROD0396,Necessary Mobile,Electronics,Mobile,333.85,255.2,Williams LLC,150,SUP012
-PROD0397,Television Outdoor,Sports,Outdoor,1386.6,865.8,Ryan and Sons,474,SUP020
-PROD0398,Term Mobile,Electronics,Mobile,3600.39,2402.1,Brooks-Williams,67,SUP037
-PROD0399,Throughout Education,Books,Education,4762.71,3239.22,Guerra Ltd,387,SUP031
-PROD0400,Raise Furniture,Home & Kitchen,Furniture,3062.28,1855.15,Mays LLC,247,SUP030
-PROD0401,Pick Fitness,Sports,Fitness,4869.76,3942.42,Howell-Brown,37,SUP008
-PROD0402,Recently Cookware,Home & Kitchen,Cookware,4227.43,2715.58,Briggs-Simon,489,SUP050
-PROD0403,Respond Skincare,Beauty,Skincare,1124.82,934.57,"Ferguson, Kelley and Patrick",383,SUP033
-PROD0404,Above Skincare,Beauty,Skincare,4301.91,2913.71,Campbell-Torres,70,SUP049
-PROD0405,Story Education,Books,Education,4485.73,2727.32,Davis Ltd,313,SUP038
-PROD0406,Once Education,Books,Education,1991.45,1222.89,Morrow-Anderson,464,SUP019
-PROD0407,Responsibility Fiction,Books,Fiction,1899.54,1177.5,Arnold PLC,142,SUP040
-PROD0408,Ground Headphones,Electronics,Headphones,2368.31,1544.35,"Miller, Robinson and Martinez",424,SUP026
-PROD0409,Similar Outdoor,Sports,Outdoor,1543.0,1197.48,Hunter Inc,469,SUP015
-PROD0410,Finish Jeans,Clothing,Jeans,2004.99,1350.11,Morgan LLC,392,SUP017
-PROD0411,Until Mobile,Electronics,Mobile,2512.17,1744.05,"Gill, Perkins and Cohen",168,SUP031
-PROD0412,Upon Cookware,Home & Kitchen,Cookware,3988.5,2962.33,Moore PLC,62,SUP023
-PROD0413,Shake Skincare,Beauty,Skincare,2937.68,1919.15,Garcia-Jones,486,SUP030
-PROD0414,Seem Education,Books,Education,3139.75,2097.34,"Rodriguez, Carter and Mckenzie",387,SUP024
-PROD0415,Draw Skincare,Beauty,Skincare,4187.47,2791.83,Baxter-Price,214,SUP032
-PROD0416,Along Makeup,Beauty,Makeup,4428.01,3345.92,Travis Inc,315,SUP003
-PROD0417,Dream Makeup,Beauty,Makeup,468.42,367.73,Newton Group,386,SUP016
-PROD0418,Response Mobile,Electronics,Mobile,3694.45,2912.9,"Singh, Martinez and Brown",307,SUP047
-PROD0419,Away Headphones,Electronics,Headphones,4149.64,3132.5,"Khan, Marsh and Brennan",346,SUP040
-PROD0420,Appear Cookware,Home & Kitchen,Cookware,1315.68,1028.74,Rush-Jackson,305,SUP020
-PROD0421,South Outdoor,Sports,Outdoor,3144.86,2283.63,"Hill, Mccormick and Bray",228,SUP037
-PROD0422,Course Cookware,Home & Kitchen,Cookware,4709.13,3103.52,Vance-Ellis,479,SUP049
-PROD0423,Out Fiction,Books,Fiction,4047.28,2625.27,"Frank, Garcia and Allen",407,SUP010
-PROD0424,Poor Makeup,Beauty,Makeup,3568.18,2152.45,"Shea, Thomas and Smith",486,SUP049
-PROD0425,Night Skincare,Beauty,Skincare,980.72,645.8,Gray LLC,137,SUP044
-PROD0426,Understand Fiction,Books,Fiction,3152.38,1923.5,"Williams, Dean and Whitehead",117,SUP015
-PROD0427,Sign Skincare,Beauty,Skincare,818.97,543.64,Brown Inc,410,SUP048
-PROD0428,Their Skincare,Beauty,Skincare,2805.69,2357.3,"Lam, Barrera and Baker",133,SUP018
-PROD0429,Thousand Education,Books,Education,1395.11,896.9,Huerta-Klein,469,SUP009
-PROD0430,By Education,Books,Education,4639.12,3310.91,"Perkins, Duke and Carter",337,SUP009
-PROD0431,Other Mobile,Electronics,Mobile,4751.32,3057.02,"Cooke, Pugh and Ford",388,SUP049
-PROD0432,Feel Cookware,Home & Kitchen,Cookware,4726.74,3019.35,Pena Ltd,412,SUP003
-PROD0433,We Education,Books,Education,310.69,236.32,"Holland, Roberts and Ramirez",224,SUP003
-PROD0434,Several Jeans,Clothing,Jeans,1844.05,1316.27,"Gonzalez, Watkins and Hernandez",467,SUP035
-PROD0435,Treat Headphones,Electronics,Headphones,905.13,647.86,"Jarvis, Vang and Garza",121,SUP010
-PROD0436,Me Education,Books,Education,2404.48,1796.4,"Castillo, Hoffman and Nielsen",95,SUP015
-PROD0437,Above Skincare,Beauty,Skincare,690.42,546.82,Kelley Ltd,150,SUP003
-PROD0438,Score Mobile,Electronics,Mobile,4395.91,3713.1,Jones and Sons,225,SUP007
-PROD0439,Up Education,Books,Education,2983.14,2211.9,Finley Inc,319,SUP038
-PROD0440,Radio Jeans,Clothing,Jeans,4129.37,3430.66,Garcia-Carlson,61,SUP001
-PROD0441,Upon Makeup,Beauty,Makeup,1149.23,828.02,"Gay, Lam and Guzman",394,SUP048
-PROD0442,First Headphones,Electronics,Headphones,1456.35,1109.48,Hinton-Jones,422,SUP016
-PROD0443,Poor Skincare,Beauty,Skincare,2896.11,1853.54,Gray-Mathews,201,SUP047
-PROD0444,Wonder Skincare,Beauty,Skincare,4821.09,3971.32,Morales Ltd,481,SUP017
-PROD0445,Area Furniture,Home & Kitchen,Furniture,4220.26,2910.48,Evans-Sanchez,164,SUP002
-PROD0446,Dog Furniture,Home & Kitchen,Furniture,1491.68,1171.72,"Johnson, Palmer and Simpson",354,SUP015
-PROD0447,More Furniture,Home & Kitchen,Furniture,1086.44,896.61,"Huff, Johnson and Monroe",83,SUP040
-PROD0448,Improve Laptop,Electronics,Laptop,2322.61,1501.02,Hester LLC,293,SUP048
-PROD0449,Nation Headphones,Electronics,Headphones,3575.36,2279.97,Curry Group,422,SUP043
-PROD0450,Everybody Shirt,Clothing,Shirt,3317.73,2365.05,Rosario-Byrd,412,SUP003
-PROD0451,Deal Dress,Clothing,Dress,3253.63,2300.0,Reyes-Woodward,184,SUP037
-PROD0452,Material Fiction,Books,Fiction,548.3,387.77,Tucker LLC,483,SUP020
-PROD0453,Wonder Makeup,Beauty,Makeup,4476.09,3423.32,Little-Mills,467,SUP049
-PROD0454,Him Cookware,Home & Kitchen,Cookware,3823.07,3191.68,"Wilson, Garcia and Sanchez",190,SUP019
-PROD0455,Number Dress,Clothing,Dress,2993.15,2063.5,Chen-Fields,238,SUP013
-PROD0456,Challenge Laptop,Electronics,Laptop,4708.17,3733.69,Christensen-Brooks,383,SUP023
-PROD0457,Real Outdoor,Sports,Outdoor,3057.06,2204.09,Stafford PLC,355,SUP003
-PROD0458,Wife Outdoor,Sports,Outdoor,4492.5,2979.48,"Gonzalez, Dodson and Lawrence",137,SUP026
-PROD0459,Public Makeup,Beauty,Makeup,1731.25,1120.65,"Silva, Martinez and Davis",190,SUP047
-PROD0460,Attorney Fiction,Books,Fiction,4828.07,3299.36,"Durham, Jackson and Vega",15,SUP028
-PROD0461,Future Laptop,Electronics,Laptop,3982.89,3139.32,Smith-Tapia,73,SUP012
-PROD0462,Soon Mobile,Electronics,Mobile,4353.12,3537.74,"Gutierrez, Smith and Robinson",21,SUP016
-PROD0463,Send Shirt,Clothing,Shirt,2260.5,1376.83,Clark-Cox,444,SUP031
-PROD0464,But Makeup,Beauty,Makeup,3358.48,2647.13,Carr LLC,254,SUP033
-PROD0465,Impact Mobile,Electronics,Mobile,3622.74,2768.32,"Beck, Strickland and Rose",248,SUP010
-PROD0466,Answer Cookware,Home & Kitchen,Cookware,3730.99,2395.59,"Herrera, Jordan and Miller",490,SUP034
-PROD0467,Expert Fitness,Sports,Fitness,265.12,204.33,Marks Inc,161,SUP006
-PROD0468,Stuff Skincare,Beauty,Skincare,4325.85,2763.36,Andrade Inc,308,SUP011
-PROD0469,Fight Fiction,Books,Fiction,548.2,334.05,Reed LLC,440,SUP010
-PROD0470,Share Skincare,Beauty,Skincare,665.18,453.52,Miller-Valencia,210,SUP033
-PROD0471,Various Mobile,Electronics,Mobile,4911.56,3228.87,"Smith, Fitzgerald and Zimmerman",457,SUP009
-PROD0472,Phone Furniture,Home & Kitchen,Furniture,3727.09,2750.05,Wright Ltd,123,SUP010
-PROD0473,Could Education,Books,Education,3798.46,2999.86,Copeland Ltd,304,SUP002
-PROD0474,Short Headphones,Electronics,Headphones,1603.07,1166.16,Smith-Snow,316,SUP024
-PROD0475,Easy Makeup,Beauty,Makeup,402.61,258.71,Thompson-Jones,312,SUP001
-PROD0476,Girl Makeup,Beauty,Makeup,4015.08,2637.99,Brown-Stone,184,SUP031
-PROD0477,Paper Skincare,Beauty,Skincare,3951.64,3252.25,Gibbs Group,211,SUP001
-PROD0478,Collection Furniture,Home & Kitchen,Furniture,2223.28,1816.77,Henderson LLC,263,SUP050
-PROD0479,It Shirt,Clothing,Shirt,4227.1,2723.07,"Smith, Pierce and Moore",151,SUP006
-PROD0480,Several Fitness,Sports,Fitness,3520.06,2173.96,Lawrence LLC,170,SUP006
-PROD0481,Discover Dress,Clothing,Dress,2082.44,1267.72,Peterson Inc,342,SUP038
-PROD0482,Certainly Headphones,Electronics,Headphones,1302.77,794.36,Castillo-Johnson,95,SUP025
-PROD0483,Decade Laptop,Electronics,Laptop,3291.34,2776.55,"Swanson, Franklin and Tate",325,SUP029
-PROD0484,Position Headphones,Electronics,Headphones,2751.59,1919.61,Ingram PLC,91,SUP009
-PROD0485,For Makeup,Beauty,Makeup,3902.45,3218.09,Newman-Valencia,436,SUP014
-PROD0486,Mission Cookware,Home & Kitchen,Cookware,4861.67,3716.84,"Price, Watson and Schultz",313,SUP017
-PROD0487,Term Outdoor,Sports,Outdoor,4664.72,3645.96,Dunlap PLC,159,SUP017
-PROD0488,Reason Cookware,Home & Kitchen,Cookware,2186.08,1696.05,"Harper, Gross and Parker",409,SUP025
-PROD0489,Nation Laptop,Electronics,Laptop,2636.78,1952.07,"Jones, Vazquez and Williams",219,SUP033
-PROD0490,Positive Cookware,Home & Kitchen,Cookware,4671.11,3504.77,Bryant-Montoya,135,SUP027
-PROD0491,Moment Cookware,Home & Kitchen,Cookware,474.63,308.07,Potter-Booth,386,SUP008
-PROD0492,Physical Furniture,Home & Kitchen,Furniture,2075.61,1526.05,Bailey Inc,253,SUP008
-PROD0493,Gas Furniture,Home & Kitchen,Furniture,3209.17,2251.06,"Taylor, Bryant and Whitehead",126,SUP029
-PROD0494,Just Headphones,Electronics,Headphones,3754.94,2991.48,Murphy Inc,442,SUP024
-PROD0495,Tax Cookware,Home & Kitchen,Cookware,3874.31,3188.24,"Delgado, Ortiz and Castro",394,SUP011
-PROD0496,Learn Jeans,Clothing,Jeans,1268.33,814.0,Marshall LLC,76,SUP027
-PROD0497,Our Furniture,Home & Kitchen,Furniture,3364.5,2578.75,"Crawford, Petty and Roth",202,SUP047
-PROD0498,Focus Fitness,Sports,Fitness,2789.84,1965.58,"Price, Green and Davis",132,SUP010
-PROD0499,State Skincare,Beauty,Skincare,1302.19,808.4,Hanna-Shaw,490,SUP015
-PROD0500,Statement Furniture,Home & Kitchen,Furniture,813.26,644.78,"Vargas, Taylor and Hawkins",483,SUP050
+PROD0001,Seven Shirt,Clothing,Shirt,2000.43,1257.98,Clark LLC,342,SUP039
+PROD0002,Nor Skincare,Beauty,Skincare,2911.06,2304.86,"King, Collins and Davis",104,SUP049
+PROD0003,Important Dress,Clothing,Dress,2632.03,1919.19,"Goodwin, Hernandez and Hughes",197,SUP007
+PROD0004,Debate Education,Books,Education,3915.64,2374.07,Hicks-Johnson,91,SUP021
+PROD0005,Television Cookware,Home & Kitchen,Cookware,2501.83,2061.59,"House, Stewart and Wood",438,SUP016
+PROD0006,Else Outdoor,Sports,Outdoor,4608.86,3912.12,"Thomas, Kelley and Martinez",444,SUP045
+PROD0007,Learn Makeup,Beauty,Makeup,2227.79,1737.15,Padilla-Wheeler,338,SUP027
+PROD0008,Glass Education,Books,Education,934.27,755.16,Vargas LLC,10,SUP015
+PROD0009,Drop Cookware,Home & Kitchen,Cookware,4324.16,3251.47,Hamilton PLC,54,SUP035
+PROD0010,Politics Makeup,Beauty,Makeup,2170.94,1767.14,"Smith, Rubio and Ross",93,SUP041
+PROD0011,Least Makeup,Beauty,Makeup,4225.92,3104.59,"Elliott, Rice and Franklin",482,SUP047
+PROD0012,Less Furniture,Home & Kitchen,Furniture,4749.84,3816.48,Smith-Kent,475,SUP044
+PROD0013,Full Education,Books,Education,816.49,676.33,"Hopkins, Love and Kelly",263,SUP003
+PROD0014,Discuss Furniture,Home & Kitchen,Furniture,2817.8,1751.98,Brown LLC,83,SUP040
+PROD0015,Whatever Skincare,Beauty,Skincare,1907.08,1200.32,"Jones, Lucas and Hickman",247,SUP016
+PROD0016,West Fitness,Sports,Fitness,3686.97,3071.1,Howard-Johnson,240,SUP029
+PROD0017,Image Outdoor,Sports,Outdoor,4380.64,3132.34,Hendrix and Sons,153,SUP046
+PROD0018,Perform Makeup,Beauty,Makeup,4178.7,2771.11,"Williams, Velasquez and Jensen",334,SUP037
+PROD0019,Least Shirt,Clothing,Shirt,3767.12,2987.38,Reed-Chapman,454,SUP049
+PROD0020,Would Jeans,Clothing,Jeans,1791.78,1470.04,"Hendrix, Johnson and Bailey",437,SUP012
+PROD0021,Near Cookware,Home & Kitchen,Cookware,1015.19,687.13,Smith LLC,135,SUP042
+PROD0022,Lot Laptop,Electronics,Laptop,1416.02,910.48,"Love, Sullivan and Gonzales",489,SUP048
+PROD0023,Career Outdoor,Sports,Outdoor,3846.13,2608.38,Clark Group,215,SUP042
+PROD0024,Key Headphones,Electronics,Headphones,1983.49,1474.4,Adams-Romero,215,SUP024
+PROD0025,Author Mobile,Electronics,Mobile,1291.04,998.95,Myers LLC,322,SUP044
+PROD0026,Give Shirt,Clothing,Shirt,426.22,344.73,Roberson and Sons,45,SUP038
+PROD0027,Glass Cookware,Home & Kitchen,Cookware,2202.34,1554.27,"Gibbs, Marsh and Walls",81,SUP012
+PROD0028,Officer Outdoor,Sports,Outdoor,2745.93,1992.78,"Liu, Rosales and Harrison",44,SUP003
+PROD0029,Leg Education,Books,Education,2618.88,1824.66,"Davis, Stephens and Perkins",11,SUP017
+PROD0030,Can Cookware,Home & Kitchen,Cookware,1718.98,1306.26,"Delgado, Maldonado and James",216,SUP007
+PROD0031,Charge Makeup,Beauty,Makeup,3655.72,2228.87,Clark PLC,352,SUP011
+PROD0032,Air Cookware,Home & Kitchen,Cookware,231.41,139.01,Greene-Patterson,443,SUP010
+PROD0033,Indeed Furniture,Home & Kitchen,Furniture,2503.34,1907.83,Turner and Sons,316,SUP021
+PROD0034,Whole Jeans,Clothing,Jeans,3797.83,2615.81,"Smith, Jackson and Oconnor",430,SUP039
+PROD0035,Growth Laptop,Electronics,Laptop,1800.83,1159.5,Anderson Ltd,421,SUP038
+PROD0036,Certain Makeup,Beauty,Makeup,2930.73,2222.24,"Baker, Brown and Robertson",282,SUP004
+PROD0037,Stop Laptop,Electronics,Laptop,3435.32,2832.58,"Fisher, Castillo and Hunter",481,SUP039
+PROD0038,Remember Fiction,Books,Fiction,1745.67,1389.44,Williams and Sons,104,SUP029
+PROD0039,Month Cookware,Home & Kitchen,Cookware,1099.09,816.92,Stout-Griffith,299,SUP033
+PROD0040,Answer Cookware,Home & Kitchen,Cookware,739.43,576.08,"Long, Harris and Johnson",305,SUP029
+PROD0041,Fact Mobile,Electronics,Mobile,1076.98,786.8,"Taylor, Allen and Anderson",339,SUP035
+PROD0042,Ask Mobile,Electronics,Mobile,3218.06,1999.04,Gibson and Sons,473,SUP035
+PROD0043,Challenge Skincare,Beauty,Skincare,4619.91,3386.83,Hart Inc,422,SUP012
+PROD0044,Product Education,Books,Education,569.81,402.99,Fowler Ltd,159,SUP030
+PROD0045,Full Mobile,Electronics,Mobile,2126.21,1277.33,King Ltd,416,SUP048
+PROD0046,Option Fiction,Books,Fiction,4907.22,4083.48,Richards Inc,321,SUP002
+PROD0047,Talk Cookware,Home & Kitchen,Cookware,654.91,476.86,Brown-Poole,264,SUP028
+PROD0048,Subject Headphones,Electronics,Headphones,2819.66,1695.63,"Rhodes, Williams and Jacobs",260,SUP038
+PROD0049,Argue Jeans,Clothing,Jeans,4806.36,3116.09,"Daniel, Davis and Stephens",406,SUP028
+PROD0050,Though Jeans,Clothing,Jeans,4292.78,3573.76,Fry-Foley,230,SUP044
+PROD0051,Brother Education,Books,Education,4980.42,3960.05,Lopez LLC,171,SUP028
+PROD0052,Answer Fiction,Books,Fiction,859.93,613.67,"Barton, Anderson and Rogers",313,SUP013
+PROD0053,Scene Furniture,Home & Kitchen,Furniture,1241.18,1007.03,"Pace, Baker and Ball",382,SUP027
+PROD0054,Listen Education,Books,Education,4116.62,2931.87,Jones Group,332,SUP046
+PROD0055,Mr Fitness,Sports,Fitness,2743.34,1957.34,"Simpson, Hatfield and Montgomery",359,SUP048
+PROD0056,Little Furniture,Home & Kitchen,Furniture,4722.17,3821.33,"Ortiz, Barajas and Morgan",458,SUP027
+PROD0057,Week Headphones,Electronics,Headphones,3788.39,2769.27,Duran-Shaw,472,SUP029
+PROD0058,Heavy Skincare,Beauty,Skincare,4498.27,2817.7,"Ware, Phillips and King",381,SUP036
+PROD0059,Main Fitness,Sports,Fitness,4197.69,3403.55,"Patterson, Wagner and James",207,SUP025
+PROD0060,Society Skincare,Beauty,Skincare,1578.1,1333.31,Collier Ltd,396,SUP010
+PROD0061,Hotel Makeup,Beauty,Makeup,773.04,553.02,Fuentes and Sons,314,SUP004
+PROD0062,Others Outdoor,Sports,Outdoor,1574.46,1069.45,"Levy, Lopez and Hernandez",86,SUP022
+PROD0063,Party Fiction,Books,Fiction,4848.81,3178.94,Howard Inc,353,SUP043
+PROD0064,Training Mobile,Electronics,Mobile,1883.46,1211.25,Price-Porter,452,SUP021
+PROD0065,Mission Headphones,Electronics,Headphones,2114.18,1706.3,Garcia-Johnson,200,SUP036
+PROD0066,Safe Mobile,Electronics,Mobile,1564.46,941.35,Wade-Evans,274,SUP028
+PROD0067,Over Skincare,Beauty,Skincare,3869.81,2368.0,Carter Ltd,17,SUP025
+PROD0068,Thus Fitness,Sports,Fitness,4904.52,2972.76,Scott-Howell,182,SUP006
+PROD0069,Together Furniture,Home & Kitchen,Furniture,608.87,369.04,Hicks and Sons,425,SUP031
+PROD0070,Enough Makeup,Beauty,Makeup,2327.19,1553.25,"Flores, Nguyen and Clark",25,SUP031
+PROD0071,Stuff Headphones,Electronics,Headphones,1835.91,1296.97,"Peterson, Simmons and Lane",259,SUP017
+PROD0072,Still Education,Books,Education,1400.76,1184.72,James-Stevenson,398,SUP045
+PROD0073,Should Makeup,Beauty,Makeup,4389.88,2635.42,Johnson-Hester,296,SUP023
+PROD0074,Trip Mobile,Electronics,Mobile,4480.75,2746.64,"Olsen, Thompson and Leon",11,SUP045
+PROD0075,Moment Jeans,Clothing,Jeans,867.69,651.49,"Colon, Guzman and Shepard",169,SUP025
+PROD0076,List Outdoor,Sports,Outdoor,4522.32,3695.93,Shepherd LLC,266,SUP019
+PROD0077,Level Skincare,Beauty,Skincare,1075.93,692.68,"Simmons, Smith and Leach",360,SUP039
+PROD0078,Movie Fiction,Books,Fiction,1376.29,1040.22,Sutton-Wiley,444,SUP019
+PROD0079,Reason Fiction,Books,Fiction,4708.96,3512.24,"Snyder, Reid and Gardner",193,SUP030
+PROD0080,Dinner Fiction,Books,Fiction,4350.41,3395.34,"Wilkinson, Harrington and Wood",500,SUP020
+PROD0081,Yard Cookware,Home & Kitchen,Cookware,1825.92,1194.14,Caldwell and Sons,446,SUP036
+PROD0082,In Fitness,Sports,Fitness,3319.8,2539.28,"Jenkins, Stuart and Lopez",423,SUP003
+PROD0083,Arm Skincare,Beauty,Skincare,4660.05,3061.32,Webb and Sons,240,SUP044
+PROD0084,Agree Headphones,Electronics,Headphones,3327.29,2650.5,"Odonnell, Harrison and Lee",448,SUP032
+PROD0085,Back Shirt,Clothing,Shirt,4553.58,2877.82,White-Mccoy,356,SUP017
+PROD0086,Clearly Fiction,Books,Fiction,3249.86,2671.26,Giles LLC,287,SUP002
+PROD0087,According Education,Books,Education,2062.13,1436.01,Figueroa-Reed,298,SUP032
+PROD0088,Get Outdoor,Sports,Outdoor,2674.67,2143.18,Roy Ltd,70,SUP021
+PROD0089,Now Fitness,Sports,Fitness,2695.36,1997.69,Bennett-Lawrence,334,SUP022
+PROD0090,My Education,Books,Education,734.27,447.03,Robinson Ltd,89,SUP022
+PROD0091,Bill Skincare,Beauty,Skincare,4563.19,2771.23,"Chambers, Simmons and Bennett",303,SUP039
+PROD0092,Director Dress,Clothing,Dress,1612.67,1121.93,Vaughn Inc,297,SUP023
+PROD0093,Often Mobile,Electronics,Mobile,4128.33,3256.1,"Owens, Cline and Frank",139,SUP024
+PROD0094,Small Mobile,Electronics,Mobile,1893.33,1278.77,Harris-Johnson,35,SUP018
+PROD0095,Same Headphones,Electronics,Headphones,4042.01,2687.59,"Holloway, Rosales and Davis",436,SUP004
+PROD0096,Future Shirt,Clothing,Shirt,2395.05,1787.64,Lopez PLC,56,SUP039
+PROD0097,National Skincare,Beauty,Skincare,4138.13,2876.29,King and Sons,301,SUP048
+PROD0098,Account Fiction,Books,Fiction,1457.56,1102.36,"Hamilton, Harrell and Downs",65,SUP030
+PROD0099,Lawyer Makeup,Beauty,Makeup,4427.67,3266.66,"Erickson, Knight and Nash",71,SUP016
+PROD0100,Five Cookware,Home & Kitchen,Cookware,4011.67,2874.87,Frank Group,345,SUP013
+PROD0101,Outside Laptop,Electronics,Laptop,1631.56,1098.72,Jimenez PLC,287,SUP047
+PROD0102,Hear Furniture,Home & Kitchen,Furniture,1693.68,1186.29,Richardson-Wolf,82,SUP045
+PROD0103,Still Fiction,Books,Fiction,3089.51,2146.78,Salazar-Gibbs,82,SUP007
+PROD0104,Western Furniture,Home & Kitchen,Furniture,2797.59,2297.62,Kaufman-Henry,134,SUP046
+PROD0105,Party Dress,Clothing,Dress,4198.19,3367.93,Lewis Group,159,SUP048
+PROD0106,Down Jeans,Clothing,Jeans,3538.79,2189.07,Ramos LLC,178,SUP045
+PROD0107,Small Outdoor,Sports,Outdoor,1612.83,1171.6,"Jacobs, Park and Romero",238,SUP037
+PROD0108,Get Headphones,Electronics,Headphones,1870.5,1253.97,Miller and Sons,36,SUP031
+PROD0109,Wall Jeans,Clothing,Jeans,1249.21,895.84,Walters Ltd,246,SUP035
+PROD0110,Doctor Education,Books,Education,2353.29,1779.66,Bennett Group,273,SUP006
+PROD0111,Debate Laptop,Electronics,Laptop,4096.07,2475.6,"Scott, Rodriguez and Bradley",414,SUP002
+PROD0112,Including Education,Books,Education,4377.58,3039.25,Moss Ltd,40,SUP016
+PROD0113,Article Outdoor,Sports,Outdoor,4505.96,3369.65,Brady-Mckee,374,SUP011
+PROD0114,It Fitness,Sports,Fitness,2739.14,2287.85,Rangel Ltd,473,SUP019
+PROD0115,Animal Headphones,Electronics,Headphones,3815.23,2951.86,West Inc,221,SUP018
+PROD0116,Concern Jeans,Clothing,Jeans,2167.26,1691.35,"Davis, Wells and Lucas",198,SUP041
+PROD0117,Against Skincare,Beauty,Skincare,4318.5,2949.24,Rios and Sons,80,SUP039
+PROD0118,Other Shirt,Clothing,Shirt,2671.57,2265.81,Ferguson-Banks,39,SUP005
+PROD0119,Senior Makeup,Beauty,Makeup,2282.42,1850.74,Weaver Ltd,377,SUP010
+PROD0120,Machine Jeans,Clothing,Jeans,3882.37,2539.98,Alvarez-Smith,368,SUP005
+PROD0121,Book Laptop,Electronics,Laptop,1442.06,1000.96,Davis Group,321,SUP011
+PROD0122,Turn Furniture,Home & Kitchen,Furniture,4482.7,3664.16,"Taylor, Herrera and Howard",200,SUP002
+PROD0123,Agree Mobile,Electronics,Mobile,3308.03,2556.72,Perry PLC,264,SUP014
+PROD0124,Actually Laptop,Electronics,Laptop,2378.48,1623.86,"Fisher, Rowland and Alexander",247,SUP039
+PROD0125,Health Jeans,Clothing,Jeans,4683.93,3954.3,Love Ltd,450,SUP012
+PROD0126,Visit Dress,Clothing,Dress,4145.81,2680.79,Lloyd PLC,291,SUP045
+PROD0127,Throw Education,Books,Education,4978.8,4101.99,Rodriguez Group,152,SUP029
+PROD0128,Security Mobile,Electronics,Mobile,1504.2,1056.86,"Anderson, Dickson and Freeman",432,SUP017
+PROD0129,Government Fiction,Books,Fiction,3476.13,2206.5,Gonzalez PLC,468,SUP001
+PROD0130,Out Laptop,Electronics,Laptop,3152.26,2565.72,"Allen, Ross and Harris",145,SUP001
+PROD0131,Phone Makeup,Beauty,Makeup,759.49,636.8,Hayes Ltd,297,SUP010
+PROD0132,Attack Makeup,Beauty,Makeup,4896.95,3357.43,Burns Inc,10,SUP043
+PROD0133,Seat Cookware,Home & Kitchen,Cookware,1366.24,1005.68,Lewis-Harper,357,SUP035
+PROD0134,Arm Education,Books,Education,954.15,797.16,Ford-Pierce,163,SUP048
+PROD0135,Ready Fitness,Sports,Fitness,4306.72,3414.91,"Young, Anderson and Holt",499,SUP038
+PROD0136,Computer Shirt,Clothing,Shirt,4071.75,3114.23,Meyer Inc,42,SUP008
+PROD0137,Order Dress,Clothing,Dress,1854.9,1142.21,Nichols Inc,234,SUP013
+PROD0138,Guess Headphones,Electronics,Headphones,4555.98,3116.24,Dudley Group,153,SUP006
+PROD0139,Yes Skincare,Beauty,Skincare,3767.54,2743.42,Banks-Simpson,99,SUP023
+PROD0140,According Fiction,Books,Fiction,1318.35,1029.27,"Guzman, Juarez and Smith",365,SUP027
+PROD0141,Minute Laptop,Electronics,Laptop,3860.82,2391.96,"Garcia, Moon and Graves",19,SUP047
+PROD0142,One Outdoor,Sports,Outdoor,3427.75,2656.14,"Burton, Graves and Kim",171,SUP026
+PROD0143,Today Fiction,Books,Fiction,4978.92,3277.33,Smith Group,210,SUP018
+PROD0144,Our Skincare,Beauty,Skincare,1771.49,1156.0,"Blake, Miller and Griffith",465,SUP050
+PROD0145,Yet Outdoor,Sports,Outdoor,1804.42,1388.11,"Morton, Wise and Lopez",284,SUP038
+PROD0146,Several Furniture,Home & Kitchen,Furniture,4142.04,2979.0,"Torres, James and Mayer",498,SUP024
+PROD0147,Moment Fiction,Books,Fiction,508.56,360.21,Gallegos-Brown,256,SUP020
+PROD0148,Down Skincare,Beauty,Skincare,545.97,421.75,Harris PLC,279,SUP006
+PROD0149,Course Mobile,Electronics,Mobile,4193.63,3317.8,Moore-Mckinney,299,SUP049
+PROD0150,Mrs Fiction,Books,Fiction,1579.98,1016.21,Osborn and Sons,448,SUP014
+PROD0151,National Makeup,Beauty,Makeup,4946.29,4110.57,Taylor-Horton,462,SUP019
+PROD0152,Check Headphones,Electronics,Headphones,204.89,123.09,Barnett-Hanna,257,SUP042
+PROD0153,Product Outdoor,Sports,Outdoor,645.91,459.06,"Fleming, Gonzalez and Hatfield",223,SUP038
+PROD0154,Concern Outdoor,Sports,Outdoor,4351.9,3103.82,"Davis, Rowe and Ray",54,SUP003
+PROD0155,Mention Headphones,Electronics,Headphones,3962.46,2863.91,Leonard PLC,426,SUP032
+PROD0156,Example Fiction,Books,Fiction,4266.2,3368.82,"Wilson, Williams and Gallagher",406,SUP008
+PROD0157,Food Dress,Clothing,Dress,2741.16,1789.77,Murray PLC,412,SUP048
+PROD0158,Mission Skincare,Beauty,Skincare,286.47,236.42,"Brown, Clark and Adams",451,SUP027
+PROD0159,Table Makeup,Beauty,Makeup,444.46,317.4,"Rogers, Hernandez and Chavez",277,SUP028
+PROD0160,Who Outdoor,Sports,Outdoor,4226.15,3369.29,Murphy LLC,247,SUP044
+PROD0161,Last Fiction,Books,Fiction,2171.98,1426.97,"Bradshaw, Brown and Jones",49,SUP014
+PROD0162,Purpose Fitness,Sports,Fitness,2380.18,1704.23,"Jones, Morris and Torres",498,SUP028
+PROD0163,Sing Headphones,Electronics,Headphones,1624.78,1372.12,Ferguson-Long,271,SUP020
+PROD0164,Official Shirt,Clothing,Shirt,1757.66,1480.38,"Adkins, Martinez and Gonzalez",411,SUP010
+PROD0165,Back Fitness,Sports,Fitness,795.97,611.55,Howard Inc,463,SUP030
+PROD0166,Within Fiction,Books,Fiction,4319.06,3611.26,"Rodriguez, Carter and Smith",373,SUP014
+PROD0167,Easy Mobile,Electronics,Mobile,3346.47,2831.34,Delacruz Ltd,118,SUP033
+PROD0168,Thus Cookware,Home & Kitchen,Cookware,4974.01,3244.93,Rodriguez-Myers,321,SUP030
+PROD0169,Floor Education,Books,Education,4551.64,3254.56,Harris-Vasquez,404,SUP043
+PROD0170,Majority Education,Books,Education,4145.21,2495.93,Ryan-Johnson,353,SUP032
+PROD0171,Inside Skincare,Beauty,Skincare,1821.02,1466.8,"Farrell, Hart and Long",456,SUP024
+PROD0172,Item Makeup,Beauty,Makeup,2949.25,2153.56,Simpson-Petty,82,SUP003
+PROD0173,Daughter Headphones,Electronics,Headphones,2586.14,1567.33,Brown and Sons,321,SUP039
+PROD0174,Great Fitness,Sports,Fitness,509.91,326.75,Shaw LLC,269,SUP001
+PROD0175,Compare Makeup,Beauty,Makeup,2342.9,1892.09,Reese-Johnston,492,SUP001
+PROD0176,Student Fitness,Sports,Fitness,3939.05,2851.23,Young-Ortiz,298,SUP042
+PROD0177,Effort Fiction,Books,Fiction,2865.82,1744.89,Baker Group,114,SUP048
+PROD0178,Effort Dress,Clothing,Dress,2319.11,1842.51,Taylor Ltd,489,SUP016
+PROD0179,Simple Furniture,Home & Kitchen,Furniture,710.87,457.49,"Snyder, Roy and Cook",314,SUP017
+PROD0180,Government Dress,Clothing,Dress,464.69,301.93,Farmer-Williams,433,SUP027
+PROD0181,Beat Jeans,Clothing,Jeans,560.29,441.85,"Harmon, Austin and Simmons",26,SUP003
+PROD0182,Stop Fiction,Books,Fiction,4552.2,3787.72,Parrish-Arellano,487,SUP035
+PROD0183,Direction Mobile,Electronics,Mobile,1226.69,777.44,"Ray, Mccoy and Turner",385,SUP005
+PROD0184,Participant Education,Books,Education,3428.77,2830.27,Oneill-Jones,238,SUP044
+PROD0185,Not Mobile,Electronics,Mobile,1865.04,1138.26,Santos Group,34,SUP039
+PROD0186,Middle Jeans,Clothing,Jeans,2819.32,2072.15,Shaw Ltd,54,SUP043
+PROD0187,Policy Headphones,Electronics,Headphones,3246.89,2534.87,"Donaldson, Brock and Chavez",340,SUP005
+PROD0188,Evidence Fitness,Sports,Fitness,509.84,358.26,Suarez PLC,248,SUP028
+PROD0189,Front Cookware,Home & Kitchen,Cookware,3294.74,2561.87,Solis Group,470,SUP040
+PROD0190,Trade Makeup,Beauty,Makeup,3245.81,2188.26,Williams-Black,480,SUP039
+PROD0191,Scene Jeans,Clothing,Jeans,825.89,509.88,Holder and Sons,221,SUP043
+PROD0192,Left Fiction,Books,Fiction,4767.0,3702.83,"Murphy, Kelly and Potter",90,SUP050
+PROD0193,Measure Mobile,Electronics,Mobile,4974.68,3440.93,Clarke-Howard,373,SUP008
+PROD0194,Guess Dress,Clothing,Dress,581.55,428.64,Taylor and Sons,184,SUP001
+PROD0195,Vote Education,Books,Education,4691.55,3456.69,Newton-Krause,316,SUP046
+PROD0196,Hair Mobile,Electronics,Mobile,1031.82,632.63,Ramirez-Richard,43,SUP016
+PROD0197,System Makeup,Beauty,Makeup,1874.2,1568.05,Byrd-Parker,252,SUP020
+PROD0198,Authority Furniture,Home & Kitchen,Furniture,2955.57,1784.75,Curtis-Jenkins,87,SUP006
+PROD0199,Collection Furniture,Home & Kitchen,Furniture,3963.19,3005.19,"Henderson, Santiago and Pratt",119,SUP026
+PROD0200,Break Furniture,Home & Kitchen,Furniture,3422.85,2153.92,Kramer-Jordan,384,SUP034
+PROD0201,Draw Fitness,Sports,Fitness,4247.45,3589.64,Madden LLC,104,SUP018
+PROD0202,Other Shirt,Clothing,Shirt,4752.1,3546.56,Nelson-Watkins,244,SUP013
+PROD0203,Born Cookware,Home & Kitchen,Cookware,2454.9,1843.24,Knight-Moore,172,SUP038
+PROD0204,Character Jeans,Clothing,Jeans,3154.6,2246.29,Chen-Brooks,453,SUP005
+PROD0205,Cost Skincare,Beauty,Skincare,3870.25,2365.67,"Nguyen, Smith and Hunt",255,SUP047
+PROD0206,Among Education,Books,Education,4911.3,3139.69,Brown Inc,248,SUP035
+PROD0207,Pretty Education,Books,Education,2266.22,1899.23,"Brown, Johnson and Reed",395,SUP020
+PROD0208,Hot Education,Books,Education,3532.83,2880.9,Sherman-Vasquez,498,SUP048
+PROD0209,Spring Shirt,Clothing,Shirt,3917.36,2520.74,Walters LLC,477,SUP045
+PROD0210,Oil Fiction,Books,Fiction,1575.56,1097.34,Cooper-Estes,250,SUP026
+PROD0211,Significant Fitness,Sports,Fitness,3116.23,2146.16,Stuart-Barrett,284,SUP010
+PROD0212,Already Mobile,Electronics,Mobile,4762.16,3522.61,Butler PLC,177,SUP001
+PROD0213,Poor Mobile,Electronics,Mobile,1443.4,988.6,"Wallace, Mayo and Blair",352,SUP009
+PROD0214,Upon Jeans,Clothing,Jeans,3020.44,2454.51,King Inc,389,SUP007
+PROD0215,Law Dress,Clothing,Dress,2516.14,1713.26,Franklin Inc,120,SUP003
+PROD0216,Dark Outdoor,Sports,Outdoor,3700.6,2336.83,"Adams, Miller and Davis",390,SUP043
+PROD0217,Yourself Shirt,Clothing,Shirt,1805.54,1399.85,"Hawkins, Deleon and Hughes",43,SUP047
+PROD0218,Less Laptop,Electronics,Laptop,3700.33,3034.35,Day-Aguilar,404,SUP033
+PROD0219,Might Cookware,Home & Kitchen,Cookware,3167.75,2018.98,"Hardy, Hall and Ruiz",203,SUP046
+PROD0220,Early Headphones,Electronics,Headphones,4364.16,3550.34,"Taylor, Robertson and Brennan",248,SUP009
+PROD0221,Painting Makeup,Beauty,Makeup,703.19,513.83,Baker LLC,189,SUP049
+PROD0222,Impact Dress,Clothing,Dress,4477.62,2740.7,Baldwin-Harris,217,SUP037
+PROD0223,Protect Cookware,Home & Kitchen,Cookware,233.82,153.11,Hernandez-Nunez,62,SUP038
+PROD0224,Dream Headphones,Electronics,Headphones,2544.86,1994.04,Cruz and Sons,392,SUP047
+PROD0225,Position Fiction,Books,Fiction,4586.0,2823.45,"Nelson, Orozco and Buck",74,SUP027
+PROD0226,Beat Outdoor,Sports,Outdoor,920.68,779.57,"Zamora, Edwards and Jensen",377,SUP005
+PROD0227,Situation Outdoor,Sports,Outdoor,4000.03,2939.71,Russell-Santiago,324,SUP029
+PROD0228,Hair Makeup,Beauty,Makeup,3531.11,2443.69,Wilson and Sons,280,SUP041
+PROD0229,Relationship Furniture,Home & Kitchen,Furniture,1358.44,906.18,Cole-Brown,347,SUP038
+PROD0230,Ask Makeup,Beauty,Makeup,2962.45,1858.02,Chapman and Sons,173,SUP010
+PROD0231,Give Jeans,Clothing,Jeans,2982.35,1822.39,Larson-Camacho,62,SUP036
+PROD0232,Happen Fiction,Books,Fiction,4591.29,3483.17,Cruz Ltd,245,SUP005
+PROD0233,This Cookware,Home & Kitchen,Cookware,4495.88,3564.36,Howell Group,222,SUP010
+PROD0234,War Outdoor,Sports,Outdoor,3225.83,2075.45,"Ross, Hall and Walsh",458,SUP011
+PROD0235,Surface Fiction,Books,Fiction,4548.22,3093.56,"Anderson, Beck and Morales",399,SUP041
+PROD0236,Serve Fiction,Books,Fiction,3612.87,2482.84,Ruiz-Baker,270,SUP033
+PROD0237,Low Skincare,Beauty,Skincare,3339.18,2035.7,"Hodge, Mills and Nguyen",228,SUP010
+PROD0238,Room Laptop,Electronics,Laptop,1125.87,844.15,Mills-Coleman,59,SUP001
+PROD0239,Eat Fitness,Sports,Fitness,2885.55,1959.4,Woodward-Harris,374,SUP044
+PROD0240,Seven Fiction,Books,Fiction,2395.27,1890.12,Hicks-Collins,386,SUP040
+PROD0241,Table Fiction,Books,Fiction,2090.5,1709.01,"Burke, Garza and Anderson",119,SUP016
+PROD0242,Region Shirt,Clothing,Shirt,2026.43,1580.3,Wilkins Ltd,302,SUP047
+PROD0243,Seat Education,Books,Education,937.03,707.41,"Strickland, Valenzuela and Allen",183,SUP030
+PROD0244,Current Education,Books,Education,3708.68,3054.83,"Lewis, Rivera and Hodges",489,SUP010
+PROD0245,Beyond Skincare,Beauty,Skincare,4930.63,2993.16,"Davis, Griffin and Graham",254,SUP009
+PROD0246,Open Fitness,Sports,Fitness,1145.78,711.05,Lee-Moore,497,SUP014
+PROD0247,Just Education,Books,Education,2317.99,1950.21,Robinson PLC,452,SUP027
+PROD0248,Bank Outdoor,Sports,Outdoor,1865.39,1584.3,"Odom, Bell and Pierce",490,SUP029
+PROD0249,Card Shirt,Clothing,Shirt,3321.19,2282.88,Lee and Sons,438,SUP014
+PROD0250,Final Dress,Clothing,Dress,982.44,821.37,Carey Group,247,SUP015
+PROD0251,Affect Outdoor,Sports,Outdoor,1971.81,1643.0,Campbell-Williams,138,SUP048
+PROD0252,Actually Laptop,Electronics,Laptop,3430.77,2850.54,Whitney-Wells,321,SUP043
+PROD0253,Tough Furniture,Home & Kitchen,Furniture,502.35,365.47,"Fleming, Huffman and Lynch",426,SUP011
+PROD0254,Leave Shirt,Clothing,Shirt,4730.31,2907.42,Jackson and Sons,251,SUP001
+PROD0255,Something Mobile,Electronics,Mobile,2712.07,2150.12,"Fuller, Burton and Rodriguez",248,SUP007
+PROD0256,Really Fitness,Sports,Fitness,4319.51,3078.78,Mendoza-Mora,469,SUP013
+PROD0257,Security Fiction,Books,Fiction,4802.07,2997.76,Kemp Ltd,476,SUP031
+PROD0258,Week Education,Books,Education,3334.04,2314.63,Smith and Sons,389,SUP020
+PROD0259,As Headphones,Electronics,Headphones,3952.62,3137.73,"Hoover, Butler and Salinas",416,SUP010
+PROD0260,Say Dress,Clothing,Dress,1990.87,1323.21,Herrera LLC,278,SUP028
+PROD0261,Myself Fiction,Books,Fiction,4273.91,3285.89,Black-Lopez,21,SUP010
+PROD0262,Hot Fiction,Books,Fiction,774.42,512.23,Skinner-Mercer,188,SUP015
+PROD0263,Receive Cookware,Home & Kitchen,Cookware,808.12,504.77,"Ingram, Mendoza and Thornton",273,SUP008
+PROD0264,Know Dress,Clothing,Dress,2066.26,1612.52,Mclaughlin Ltd,190,SUP046
+PROD0265,Seek Education,Books,Education,2435.42,1843.07,Lucas-Mooney,430,SUP037
+PROD0266,Sort Dress,Clothing,Dress,1428.59,913.84,Davidson Ltd,61,SUP024
+PROD0267,Bank Skincare,Beauty,Skincare,3793.91,3139.68,Bender-Harris,69,SUP028
+PROD0268,Call Headphones,Electronics,Headphones,3395.36,2527.79,Jackson LLC,248,SUP050
+PROD0269,Concern Skincare,Beauty,Skincare,3986.49,3092.76,Johnson-Robertson,274,SUP010
+PROD0270,Third Outdoor,Sports,Outdoor,1486.7,1128.23,Fisher Ltd,197,SUP027
+PROD0271,Prepare Mobile,Electronics,Mobile,1349.84,810.46,"Jones, White and Hayes",16,SUP025
+PROD0272,Person Laptop,Electronics,Laptop,1188.9,951.11,Castillo Ltd,161,SUP005
+PROD0273,Anyone Fitness,Sports,Fitness,4173.12,2634.42,Bowen-White,213,SUP026
+PROD0274,Grow Skincare,Beauty,Skincare,478.76,383.16,Morris-Chen,185,SUP017
+PROD0275,Play Fitness,Sports,Fitness,424.51,277.01,"Morrison, Taylor and Salazar",383,SUP030
+PROD0276,Someone Outdoor,Sports,Outdoor,4324.91,3655.02,Green-Howard,28,SUP006
+PROD0277,Be Education,Books,Education,4377.0,2769.03,Vasquez-Savage,175,SUP046
+PROD0278,Position Skincare,Beauty,Skincare,3483.7,2936.92,Suarez LLC,168,SUP004
+PROD0279,Listen Skincare,Beauty,Skincare,4384.67,2719.3,Conley LLC,264,SUP005
+PROD0280,Yes Outdoor,Sports,Outdoor,3596.0,3013.2,Casey-Parker,171,SUP050
+PROD0281,International Shirt,Clothing,Shirt,3419.73,2053.04,"Moore, Knight and Norman",118,SUP027
+PROD0282,Moment Skincare,Beauty,Skincare,2394.1,1859.83,Nelson Inc,475,SUP036
+PROD0283,Increase Education,Books,Education,1366.23,1070.92,"Jones, Lucas and Pena",259,SUP027
+PROD0284,Mean Makeup,Beauty,Makeup,3085.6,2223.33,Duran-Arnold,447,SUP046
+PROD0285,Treatment Fiction,Books,Fiction,711.36,458.67,"Moreno, Malone and Perez",164,SUP041
+PROD0286,Nice Dress,Clothing,Dress,2440.28,1863.3,"Bennett, Perry and Dennis",494,SUP019
+PROD0287,For Outdoor,Sports,Outdoor,3596.65,2786.78,Colon-Rice,37,SUP017
+PROD0288,Structure Fiction,Books,Fiction,3969.99,3186.57,Francis-Anderson,193,SUP035
+PROD0289,Interesting Dress,Clothing,Dress,2212.06,1645.05,Villarreal-Wolfe,152,SUP029
+PROD0290,Road Skincare,Beauty,Skincare,3907.93,2620.48,Wilson Group,115,SUP036
+PROD0291,Pay Jeans,Clothing,Jeans,1560.71,1072.51,Price Group,451,SUP023
+PROD0292,Easy Fiction,Books,Fiction,4413.25,3679.61,"Mack, Bradley and Bishop",45,SUP023
+PROD0293,Operation Makeup,Beauty,Makeup,2923.97,1865.89,Clark Ltd,31,SUP033
+PROD0294,Month Mobile,Electronics,Mobile,1972.12,1288.85,Martin-Charles,306,SUP008
+PROD0295,A Shirt,Clothing,Shirt,1069.04,813.83,"Erickson, Sanchez and Garcia",266,SUP045
+PROD0296,This Dress,Clothing,Dress,1649.59,1157.89,Velasquez and Sons,198,SUP047
+PROD0297,Say Shirt,Clothing,Shirt,2784.86,2101.97,"Martinez, Wong and Kline",373,SUP008
+PROD0298,Measure Education,Books,Education,1786.19,1427.75,Wolfe LLC,97,SUP023
+PROD0299,Everyone Jeans,Clothing,Jeans,4223.3,2748.07,Madden Inc,433,SUP007
+PROD0300,Remain Skincare,Beauty,Skincare,4932.58,3092.08,Smith PLC,86,SUP040
+PROD0301,Responsibility Skincare,Beauty,Skincare,4016.51,3183.48,Adams LLC,16,SUP041
+PROD0302,Agree Jeans,Clothing,Jeans,1308.79,997.04,Roth and Sons,303,SUP048
+PROD0303,Seem Laptop,Electronics,Laptop,4400.32,3468.8,Miller Inc,302,SUP007
+PROD0304,Teach Shirt,Clothing,Shirt,3823.45,2627.66,Schneider PLC,120,SUP008
+PROD0305,Yard Makeup,Beauty,Makeup,4032.51,2532.77,"Brown, Henderson and Austin",121,SUP019
+PROD0306,Off Shirt,Clothing,Shirt,4928.57,3251.6,Stout-Ellis,16,SUP034
+PROD0307,Region Headphones,Electronics,Headphones,1315.7,913.71,Gutierrez-Bailey,287,SUP041
+PROD0308,Brother Headphones,Electronics,Headphones,2308.86,1723.48,Marquez-Spencer,266,SUP006
+PROD0309,Letter Education,Books,Education,4896.11,3585.32,Jackson-Chase,328,SUP034
+PROD0310,Page Dress,Clothing,Dress,3856.39,3058.96,Duncan LLC,395,SUP039
+PROD0311,Coach Education,Books,Education,3187.44,1974.06,"Gardner, Thompson and Miller",219,SUP038
+PROD0312,Suddenly Outdoor,Sports,Outdoor,2502.19,1796.81,Winters-Lee,41,SUP047
+PROD0313,Field Laptop,Electronics,Laptop,2145.9,1695.22,Greene-Nash,103,SUP033
+PROD0314,Ability Laptop,Electronics,Laptop,465.97,330.01,"Scott, Johns and Johnson",305,SUP038
+PROD0315,Address Fitness,Sports,Fitness,3909.45,2728.78,Watson-Mccarthy,161,SUP034
+PROD0316,None Makeup,Beauty,Makeup,4786.0,3017.38,Hudson-Bailey,295,SUP016
+PROD0317,Learn Fitness,Sports,Fitness,1190.04,740.3,Torres and Sons,21,SUP010
+PROD0318,Heart Laptop,Electronics,Laptop,1119.11,942.77,Prince LLC,368,SUP036
+PROD0319,Care Furniture,Home & Kitchen,Furniture,4405.13,3399.94,Moses-Nielsen,320,SUP009
+PROD0320,Consider Furniture,Home & Kitchen,Furniture,357.09,241.53,Hansen-Martinez,499,SUP041
+PROD0321,Traditional Cookware,Home & Kitchen,Cookware,787.67,488.65,Wright Inc,111,SUP020
+PROD0322,President Laptop,Electronics,Laptop,1166.22,966.34,"Gonzalez, Webster and White",133,SUP046
+PROD0323,Magazine Cookware,Home & Kitchen,Cookware,4034.78,2789.58,Brown-Wagner,261,SUP042
+PROD0324,Feeling Outdoor,Sports,Outdoor,960.8,677.24,Keller-Martinez,222,SUP045
+PROD0325,Deep Skincare,Beauty,Skincare,3363.09,2545.25,Welch Ltd,373,SUP023
+PROD0326,International Laptop,Electronics,Laptop,2239.6,1666.96,Smith Ltd,425,SUP009
+PROD0327,Walk Mobile,Electronics,Mobile,1841.02,1161.33,"Hernandez, Mccarthy and Johnson",218,SUP047
+PROD0328,State Jeans,Clothing,Jeans,2077.95,1630.26,Williams Ltd,117,SUP010
+PROD0329,Over Mobile,Electronics,Mobile,1541.44,1209.28,"Carter, Santiago and Green",55,SUP025
+PROD0330,Analysis Education,Books,Education,2502.84,1603.57,Roberts Inc,260,SUP024
+PROD0331,Perhaps Education,Books,Education,4916.82,3329.6,Wilson and Sons,294,SUP037
+PROD0332,Kid Laptop,Electronics,Laptop,567.58,346.78,Perez LLC,403,SUP034
+PROD0333,Month Cookware,Home & Kitchen,Cookware,3610.63,2998.77,Villegas Inc,421,SUP012
+PROD0334,Four Fitness,Sports,Fitness,787.27,544.93,Clark-Moore,109,SUP024
+PROD0335,Professional Cookware,Home & Kitchen,Cookware,468.7,317.85,"Campbell, Kennedy and Mahoney",129,SUP041
+PROD0336,You Fitness,Sports,Fitness,4055.92,2943.53,James-Murray,325,SUP009
+PROD0337,Inside Jeans,Clothing,Jeans,1655.87,1175.08,Murphy PLC,298,SUP014
+PROD0338,Seem Headphones,Electronics,Headphones,4356.92,2830.6,Campbell Inc,299,SUP036
+PROD0339,Buy Dress,Clothing,Dress,557.49,385.5,"Reyes, Thompson and Hubbard",184,SUP017
+PROD0340,Develop Cookware,Home & Kitchen,Cookware,3595.44,3001.07,Sullivan-Ramsey,355,SUP006
+PROD0341,Player Shirt,Clothing,Shirt,4477.29,3032.71,Jones Inc,324,SUP032
+PROD0342,Six Skincare,Beauty,Skincare,263.17,159.8,Larson PLC,354,SUP050
+PROD0343,Part Fitness,Sports,Fitness,2719.91,2288.49,Chambers-Watson,179,SUP012
+PROD0344,Specific Dress,Clothing,Dress,858.09,620.54,Williams Group,206,SUP021
+PROD0345,Fish Makeup,Beauty,Makeup,3468.76,2163.01,Cannon-Wilson,59,SUP035
+PROD0346,Attention Shirt,Clothing,Shirt,3611.04,2755.68,Terrell-Edwards,308,SUP014
+PROD0347,Challenge Shirt,Clothing,Shirt,2890.01,2379.22,"Perez, Dean and Ortiz",97,SUP005
+PROD0348,Issue Outdoor,Sports,Outdoor,4390.08,3521.01,Nunez-Rasmussen,313,SUP033
+PROD0349,Wait Outdoor,Sports,Outdoor,3207.88,2447.85,Hawkins-Henry,391,SUP017
+PROD0350,Soon Outdoor,Sports,Outdoor,498.99,412.39,Watson Ltd,56,SUP044
+PROD0351,Material Makeup,Beauty,Makeup,2190.62,1609.36,"Cuevas, Williams and Riley",53,SUP016
+PROD0352,By Fitness,Sports,Fitness,2569.64,1769.81,Ramirez-Howe,56,SUP017
+PROD0353,Green Fitness,Sports,Fitness,320.44,204.95,Austin-Johnson,119,SUP044
+PROD0354,Herself Shirt,Clothing,Shirt,3463.73,2583.68,"Fowler, Cook and Kramer",25,SUP011
+PROD0355,Response Fiction,Books,Fiction,2703.6,1989.08,Davis Ltd,173,SUP004
+PROD0356,Skin Laptop,Electronics,Laptop,4188.5,2674.41,Zimmerman-Austin,494,SUP034
+PROD0357,Ability Makeup,Beauty,Makeup,1134.29,751.68,"Cooke, Burke and Vasquez",447,SUP031
+PROD0358,May Laptop,Electronics,Laptop,2372.22,1616.61,"Ray, Frazier and White",47,SUP026
+PROD0359,Entire Fiction,Books,Fiction,2759.74,2048.79,"Farrell, Carter and Martinez",166,SUP010
+PROD0360,Break Mobile,Electronics,Mobile,2102.65,1436.93,Wright Ltd,246,SUP007
+PROD0361,Decide Fiction,Books,Fiction,3677.2,2788.98,Allen Inc,222,SUP044
+PROD0362,Professor Makeup,Beauty,Makeup,1275.09,1068.36,"Wade, Avery and Powell",85,SUP022
+PROD0363,Raise Cookware,Home & Kitchen,Cookware,1524.25,1047.72,"Ellis, Mcguire and Ewing",286,SUP004
+PROD0364,After Education,Books,Education,283.29,239.11,"Smith, Rogers and Lopez",263,SUP020
+PROD0365,Add Cookware,Home & Kitchen,Cookware,3646.02,2407.77,"Keller, Morrison and Moran",50,SUP030
+PROD0366,Resource Shirt,Clothing,Shirt,3588.4,2399.78,Baker Group,480,SUP033
+PROD0367,Friend Makeup,Beauty,Makeup,2369.85,1808.77,Spence and Sons,10,SUP034
+PROD0368,Spring Education,Books,Education,849.3,651.57,Baker-Fischer,275,SUP050
+PROD0369,Fast Laptop,Electronics,Laptop,2991.53,2079.94,"Chapman, Leon and Richards",466,SUP038
+PROD0370,Rise Laptop,Electronics,Laptop,2536.24,1820.12,Doyle-Thomas,133,SUP029
+PROD0371,List Cookware,Home & Kitchen,Cookware,711.01,574.1,"Weaver, Delacruz and Curry",12,SUP022
+PROD0372,Poor Outdoor,Sports,Outdoor,2659.81,2139.12,Edwards-Carter,279,SUP007
+PROD0373,Information Dress,Clothing,Dress,1847.27,1247.77,Jones Group,149,SUP014
+PROD0374,Blue Skincare,Beauty,Skincare,2418.47,1800.88,Scott-Harrington,188,SUP012
+PROD0375,Determine Outdoor,Sports,Outdoor,3132.9,2201.09,"Waters, Smith and Smith",416,SUP024
+PROD0376,Within Makeup,Beauty,Makeup,4220.24,2952.63,Gordon-Gay,142,SUP020
+PROD0377,To Furniture,Home & Kitchen,Furniture,1518.93,934.71,Morris-Macias,163,SUP018
+PROD0378,Cultural Education,Books,Education,3743.23,3007.47,Spencer-Jones,86,SUP008
+PROD0379,Grow Makeup,Beauty,Makeup,3384.18,2514.85,Taylor-Summers,278,SUP042
+PROD0380,Knowledge Skincare,Beauty,Skincare,803.19,513.97,"Ballard, Lang and Underwood",398,SUP014
+PROD0381,Reach Fitness,Sports,Fitness,1559.9,1241.22,Barnes-Robles,383,SUP031
+PROD0382,Rise Fiction,Books,Fiction,1889.8,1537.93,"Goodwin, Brennan and Bailey",156,SUP008
+PROD0383,Look Skincare,Beauty,Skincare,2159.48,1789.85,"Morales, Rodriguez and Wilson",456,SUP041
+PROD0384,Democrat Fitness,Sports,Fitness,4402.77,3548.49,"Bailey, Harris and Barr",152,SUP010
+PROD0385,Including Fiction,Books,Fiction,4708.49,3492.61,"Johnson, Zuniga and Banks",232,SUP043
+PROD0386,Any Headphones,Electronics,Headphones,2093.89,1721.58,Montgomery and Sons,374,SUP026
+PROD0387,Remain Skincare,Beauty,Skincare,3544.95,2563.17,"Hayes, Aguilar and Scott",287,SUP009
+PROD0388,Hold Outdoor,Sports,Outdoor,4255.7,3423.94,Coleman-Gonzales,241,SUP013
+PROD0389,Commercial Skincare,Beauty,Skincare,4452.74,3452.99,Simmons LLC,80,SUP044
+PROD0390,Everyone Dress,Clothing,Dress,4318.31,2602.27,"Gonzalez, Bowen and Garcia",380,SUP020
+PROD0391,Clear Dress,Clothing,Dress,879.59,601.47,Strickland Inc,131,SUP028
+PROD0392,Trouble Fitness,Sports,Fitness,1159.92,818.43,Mcclain Inc,192,SUP011
+PROD0393,Share Fitness,Sports,Fitness,1619.58,975.3,Johnson-Hunt,377,SUP020
+PROD0394,Between Laptop,Electronics,Laptop,3989.09,3336.24,Mcintosh-Owens,120,SUP049
+PROD0395,Certainly Makeup,Beauty,Makeup,1936.08,1252.57,"Gibbs, Rogers and Romero",416,SUP023
+PROD0396,Group Laptop,Electronics,Laptop,3499.34,2568.11,Cook LLC,281,SUP012
+PROD0397,Truth Skincare,Beauty,Skincare,2567.55,1852.67,Wood PLC,490,SUP022
+PROD0398,Late Cookware,Home & Kitchen,Cookware,3407.69,2255.57,Clark-Lee,118,SUP007
+PROD0399,Daughter Skincare,Beauty,Skincare,1428.71,861.83,Owens LLC,468,SUP037
+PROD0400,Hear Shirt,Clothing,Shirt,3455.54,2167.54,Fields LLC,496,SUP019
+PROD0401,Plan Mobile,Electronics,Mobile,2801.93,2065.22,Harris-Miller,355,SUP026
+PROD0402,Shake Fitness,Sports,Fitness,2293.06,1595.57,Church-Barrera,347,SUP012
+PROD0403,Avoid Skincare,Beauty,Skincare,545.74,399.46,"Bray, Lewis and Bullock",409,SUP028
+PROD0404,Next Education,Books,Education,1845.04,1399.77,Allen PLC,12,SUP031
+PROD0405,Chair Mobile,Electronics,Mobile,773.1,620.14,"Monroe, Martin and Warren",87,SUP049
+PROD0406,Often Furniture,Home & Kitchen,Furniture,2001.71,1654.92,Monroe Ltd,134,SUP019
+PROD0407,Their Laptop,Electronics,Laptop,1764.97,1180.14,Christensen-Mcintyre,325,SUP048
+PROD0408,Speech Headphones,Electronics,Headphones,3571.44,2368.4,"Rhodes, Hart and Lewis",18,SUP044
+PROD0409,Board Fitness,Sports,Fitness,4884.92,3007.49,"Price, Whitehead and Anderson",361,SUP043
+PROD0410,Dark Dress,Clothing,Dress,3827.37,2754.33,"Aguirre, Cooper and Lucas",81,SUP015
+PROD0411,Suggest Fitness,Sports,Fitness,3121.31,2283.87,Crawford Inc,357,SUP022
+PROD0412,Always Shirt,Clothing,Shirt,3627.3,3043.38,Vega LLC,60,SUP043
+PROD0413,Should Furniture,Home & Kitchen,Furniture,4825.19,3874.5,Wood Inc,320,SUP017
+PROD0414,Others Fiction,Books,Fiction,4813.46,3933.74,Reese Ltd,140,SUP033
+PROD0415,May Mobile,Electronics,Mobile,1285.15,957.64,"Miller, Hardy and Walker",257,SUP013
+PROD0416,Material Dress,Clothing,Dress,1507.46,1080.48,Johnson Group,153,SUP017
+PROD0417,Box Education,Books,Education,1611.76,1295.81,"Williams, Pace and Young",193,SUP046
+PROD0418,Wife Fiction,Books,Fiction,4819.82,3839.21,"Washington, Simpson and Simon",101,SUP046
+PROD0419,School Fiction,Books,Fiction,4618.7,2861.89,Hatfield-Miller,297,SUP044
+PROD0420,Music Shirt,Clothing,Shirt,4353.57,3380.72,Hester PLC,413,SUP032
+PROD0421,Song Fiction,Books,Fiction,4124.18,2848.15,Davis-Castaneda,85,SUP020
+PROD0422,Against Makeup,Beauty,Makeup,3699.83,2292.78,Hayden and Sons,194,SUP043
+PROD0423,Save Dress,Clothing,Dress,3927.62,3136.48,"Jackson, Richardson and Schmidt",446,SUP008
+PROD0424,All Furniture,Home & Kitchen,Furniture,3701.92,2875.33,"Peters, Ramirez and Duarte",89,SUP045
+PROD0425,Effort Furniture,Home & Kitchen,Furniture,3154.31,2214.46,Mcneil Group,156,SUP008
+PROD0426,Rise Cookware,Home & Kitchen,Cookware,4526.25,3476.38,"Mcgrath, Woods and Diaz",415,SUP032
+PROD0427,Image Fitness,Sports,Fitness,1975.76,1282.76,Hendrix-Perez,362,SUP030
+PROD0428,Word Skincare,Beauty,Skincare,4866.26,3452.67,"Thompson, Anderson and Cunningham",278,SUP018
+PROD0429,Stand Skincare,Beauty,Skincare,300.09,224.24,House-Turner,439,SUP004
+PROD0430,Heavy Cookware,Home & Kitchen,Cookware,2734.92,1709.47,Daniels-Larson,80,SUP030
+PROD0431,Major Laptop,Electronics,Laptop,3409.64,2876.94,"Moore, Hart and Ramos",465,SUP045
+PROD0432,This Laptop,Electronics,Laptop,1214.71,1023.66,Bryant Group,427,SUP023
+PROD0433,When Mobile,Electronics,Mobile,1004.14,752.68,"Goodman, Mathews and Drake",414,SUP020
+PROD0434,Fill Fiction,Books,Fiction,584.07,478.81,"Ross, Ball and Rubio",227,SUP048
+PROD0435,Movement Makeup,Beauty,Makeup,4404.18,3156.41,"Stevens, Odom and Thomas",46,SUP035
+PROD0436,Culture Dress,Clothing,Dress,1626.51,1215.07,"Smith, Lewis and Cervantes",381,SUP015
+PROD0437,Responsibility Shirt,Clothing,Shirt,3178.91,1911.04,Collins Group,337,SUP011
+PROD0438,Well Furniture,Home & Kitchen,Furniture,1010.39,841.58,"Miranda, Lee and Webb",291,SUP024
+PROD0439,Professor Cookware,Home & Kitchen,Cookware,4914.35,3504.94,Hill PLC,139,SUP042
+PROD0440,Way Fiction,Books,Fiction,1417.2,928.99,Calderon Ltd,372,SUP019
+PROD0441,Maybe Headphones,Electronics,Headphones,3386.29,2174.52,"Gamble, Harmon and Johnston",271,SUP007
+PROD0442,Anyone Outdoor,Sports,Outdoor,4158.08,2825.61,Brown-Fletcher,279,SUP033
+PROD0443,Mouth Mobile,Electronics,Mobile,3182.7,2151.11,Knight PLC,64,SUP024
+PROD0444,Amount Fiction,Books,Fiction,1205.57,856.11,Collins and Sons,468,SUP008
+PROD0445,Case Dress,Clothing,Dress,1853.24,1399.11,French-Hines,27,SUP049
+PROD0446,Foot Makeup,Beauty,Makeup,1590.04,1215.14,Dixon LLC,483,SUP032
+PROD0447,Region Education,Books,Education,4719.13,3611.6,"Gordon, Reyes and Oneill",418,SUP035
+PROD0448,Crime Dress,Clothing,Dress,4953.42,3939.98,Mcconnell and Sons,67,SUP026
+PROD0449,Leg Cookware,Home & Kitchen,Cookware,2736.89,2292.02,Fitzgerald Group,214,SUP021
+PROD0450,Room Shirt,Clothing,Shirt,680.81,480.99,"Martinez, Avila and Paul",343,SUP028
+PROD0451,Notice Fiction,Books,Fiction,1959.27,1329.5,Smith Ltd,59,SUP025
+PROD0452,Lay Fitness,Sports,Fitness,1100.54,666.39,Parker-Bullock,339,SUP025
+PROD0453,Door Furniture,Home & Kitchen,Furniture,4448.88,3620.2,Bruce Group,37,SUP032
+PROD0454,Approach Cookware,Home & Kitchen,Cookware,2398.51,1613.99,"White, Allen and Morgan",236,SUP029
+PROD0455,Country Jeans,Clothing,Jeans,776.71,470.51,Greer Group,290,SUP041
+PROD0456,Prepare Education,Books,Education,1558.9,1152.1,Duffy and Sons,226,SUP007
+PROD0457,Way Mobile,Electronics,Mobile,3488.39,2671.56,"Lopez, Evans and Tran",319,SUP041
+PROD0458,Oil Shirt,Clothing,Shirt,3046.63,2433.07,"Martinez, Peterson and Austin",478,SUP040
+PROD0459,You Cookware,Home & Kitchen,Cookware,3881.2,2552.1,"Adams, Wright and Kidd",427,SUP029
+PROD0460,Indeed Makeup,Beauty,Makeup,4718.62,3046.19,Murray PLC,294,SUP033
+PROD0461,Prepare Skincare,Beauty,Skincare,4916.89,3589.27,"Morris, Mendez and Young",440,SUP033
+PROD0462,Nothing Cookware,Home & Kitchen,Cookware,3175.2,2439.07,Mitchell and Sons,134,SUP022
+PROD0463,Look Outdoor,Sports,Outdoor,2294.27,1797.55,Davis LLC,149,SUP008
+PROD0464,Since Outdoor,Sports,Outdoor,4465.56,2872.39,"Butler, Andersen and Alvarado",336,SUP034
+PROD0465,Executive Furniture,Home & Kitchen,Furniture,4102.7,2649.41,Shaw and Sons,27,SUP027
+PROD0466,Mother Furniture,Home & Kitchen,Furniture,1125.32,723.02,Clark LLC,408,SUP044
+PROD0467,Determine Education,Books,Education,910.42,720.32,Jordan-Solis,149,SUP043
+PROD0468,Tend Mobile,Electronics,Mobile,1332.63,1014.22,Newton Ltd,360,SUP019
+PROD0469,Doctor Outdoor,Sports,Outdoor,2688.43,1843.35,"Ibarra, Hines and West",27,SUP032
+PROD0470,Speak Laptop,Electronics,Laptop,3816.89,2940.35,Fox Ltd,112,SUP020
+PROD0471,Nor Furniture,Home & Kitchen,Furniture,2785.19,1939.51,Bailey-Powell,134,SUP039
+PROD0472,Best Headphones,Electronics,Headphones,1281.86,1038.02,Franco-Johnson,29,SUP002
+PROD0473,Front Mobile,Electronics,Mobile,3441.54,2657.41,"Gibson, Daniel and Flores",183,SUP047
+PROD0474,Marriage Headphones,Electronics,Headphones,3489.04,2816.13,"Avila, Walker and Mccarthy",447,SUP027
+PROD0475,Wrong Fiction,Books,Fiction,1916.17,1325.04,Mueller-Saunders,359,SUP013
+PROD0476,Approach Headphones,Electronics,Headphones,3637.47,2737.11,"Nelson, Sanchez and Cox",127,SUP005
+PROD0477,Daughter Shirt,Clothing,Shirt,4524.71,3814.89,Porter Ltd,402,SUP032
+PROD0478,Up Skincare,Beauty,Skincare,3758.12,2793.45,"Neal, Mccarty and Robles",343,SUP019
+PROD0479,Arrive Skincare,Beauty,Skincare,1501.13,1229.82,"Brown, Hernandez and Jordan",358,SUP022
+PROD0480,Show Cookware,Home & Kitchen,Cookware,2523.78,1691.32,Sanders Ltd,423,SUP017
+PROD0481,Minute Furniture,Home & Kitchen,Furniture,2776.71,2319.6,Martin PLC,416,SUP032
+PROD0482,Trial Dress,Clothing,Dress,402.61,305.1,Tucker Ltd,45,SUP046
+PROD0483,Board Fitness,Sports,Fitness,4232.58,2867.57,Villanueva-Ryan,126,SUP018
+PROD0484,Or Outdoor,Sports,Outdoor,2621.05,2009.95,Griffin-Davis,121,SUP022
+PROD0485,Other Mobile,Electronics,Mobile,1083.46,831.24,Adams LLC,371,SUP033
+PROD0486,Green Laptop,Electronics,Laptop,4209.28,3292.37,Jones Ltd,381,SUP046
+PROD0487,Staff Education,Books,Education,4685.34,2993.38,Robinson-Burnett,149,SUP044
+PROD0488,Free Jeans,Clothing,Jeans,457.31,377.78,Wright-Foster,108,SUP027
+PROD0489,Own Laptop,Electronics,Laptop,3970.89,3246.82,Hull-Turner,43,SUP005
+PROD0490,Value Laptop,Electronics,Laptop,4356.09,2737.68,"Mullins, King and Myers",414,SUP012
+PROD0491,Camera Makeup,Beauty,Makeup,1549.18,996.11,Thompson Ltd,254,SUP008
+PROD0492,Receive Laptop,Electronics,Laptop,626.4,441.85,Fuller PLC,135,SUP030
+PROD0493,Here Mobile,Electronics,Mobile,2708.61,2206.57,Butler-Powers,419,SUP025
+PROD0494,Sometimes Mobile,Electronics,Mobile,3410.98,2607.42,"Keller, Johnson and Bartlett",75,SUP001
+PROD0495,Accept Skincare,Beauty,Skincare,3281.96,2554.78,White-Mejia,75,SUP030
+PROD0496,Common Cookware,Home & Kitchen,Cookware,4692.85,3098.76,Carlson and Sons,228,SUP007
+PROD0497,Size Jeans,Clothing,Jeans,3760.55,2588.35,"Young, Johnson and Manning",19,SUP034
+PROD0498,Father Dress,Clothing,Dress,3373.11,2852.18,"Long, Taylor and Watson",194,SUP032
+PROD0499,Decide Fiction,Books,Fiction,3403.47,2176.54,Andrade and Sons,446,SUP005
+PROD0500,Deep Skincare,Beauty,Skincare,4421.02,3500.75,Smith PLC,21,SUP047

@@ -1,5 +1,5 @@
 {
-    "ingestion_timestamp": "2025-12-26T17:01:20.714750",
+    "ingestion_timestamp": "2025-12-27T03:20:53.988232",
     "tables_loaded": {
         "staging.customers": {
             "rows_loaded": 1000,
@@ -17,10 +17,10 @@
             "error_message": null
         },
         "staging.transaction_items": {
-            "rows_loaded": 30068,
+            "rows_loaded": 30106,
             "status": "success",
             "error_message": null
         }
     },
-    "total_execution_time_seconds": 13.86
+    "total_execution_time_seconds": 33.51
 }

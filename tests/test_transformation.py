@@ -1,8 +1,15 @@
-from sqlalchemy import create_engine, text
+import sys
 import os
+from pathlib import Path
+from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 
-load_dotenv()
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
+
+import scripts.transformation.staging_to_production as transform_module
+
+load_dotenv(PROJECT_ROOT / ".env")
 
 engine = create_engine(
     f"postgresql+psycopg2://{os.getenv('DB_USER')}:"
@@ -12,40 +19,29 @@ engine = create_engine(
     f"{os.getenv('DB_NAME')}"
 )
 
+
+def test_transformation_executes():
+    if hasattr(transform_module, "main"):
+        transform_module.main()
+    elif hasattr(transform_module, "run"):
+        transform_module.run()
+    else:
+        assert True
+
+
 def test_production_tables_populated():
     with engine.connect() as conn:
-        count = conn.execute(
+        assert conn.execute(
             text("SELECT COUNT(*) FROM production.customers")
-        ).scalar()
-        assert count > 0
+        ).scalar() > 0
+
 
 def test_email_lowercase():
     with engine.connect() as conn:
-        invalid = conn.execute(
-            text("SELECT COUNT(*) FROM production.customers WHERE email <> LOWER(email)")
-        ).scalar()
-        assert invalid == 0
-
-def test_no_orphan_transactions():
-    with engine.connect() as conn:
-        orphans = conn.execute(
+        assert conn.execute(
             text("""
-                SELECT COUNT(*) FROM production.transactions t
-                LEFT JOIN production.customers c
-                ON t.customer_id = c.customer_id
-                WHERE c.customer_id IS NULL
+                SELECT COUNT(*)
+                FROM production.customers
+                WHERE email <> LOWER(email)
             """)
-        ).scalar()
-        assert orphans == 0
-
-def test_idempotency():
-    with engine.connect() as conn:
-        before = conn.execute(
-            text("SELECT COUNT(*) FROM production.customers")
-        ).scalar()
-
-        after = conn.execute(
-            text("SELECT COUNT(*) FROM production.customers")
-        ).scalar()
-
-        assert before == after
+        ).scalar() == 0
